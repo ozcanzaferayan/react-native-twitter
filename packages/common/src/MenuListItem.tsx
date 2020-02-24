@@ -7,7 +7,7 @@ interface Style {
 }
 
 type Props = {
-  children: React.ReactNode;
+  children: React.ReactElement;
 }
 
 interface StyleProps {

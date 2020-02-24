@@ -10,6 +10,7 @@ import {
   Platform,
   ImageStyle
 } from "react-native";
+import { SvgProps } from "react-native-svg";
 
 export enum MenuItemType {
   Logo = 1,

@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, View, ViewStyle, StyleSheet } from 'react-native';
+import { Image, View, ViewStyle, StyleSheet, Text, Platform } from 'react-native';
 import IcBookmarks from "./icons/IcBookmarks";
 import IcDiscover from './icons/IcDiscover';
 import IcHome from './icons/IcHome';
@@ -21,13 +21,22 @@ interface PropsApp {
 interface Style {
   container: ViewStyle;
   containerMenuItems: ViewStyle;
+  containerFeed: ViewStyle;
 }
 
 export const App: React.FC<PropsApp> = props => {
   const uri = 'https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg';
    return (
     <View style={styles.container}>
-      <View style={styles.containerMenuItems}>
+      {/*
+        // @ts-ignore */}
+      <View style={styles.containerMenuItems}
+        {...Platform.select({
+          web: {
+            accessibilityRole: 'banner'
+          }
+        })}
+        >
           <MenuListItem><MenuLogo Icon={IcTwitter} /></MenuListItem>
           <MenuListItem><MenuIconText text="Anasayfa" Icon={IcHome}/></MenuListItem>
           <MenuListItem><MenuIconText text="Keşfet" Icon={IcDiscover}/></MenuListItem>
@@ -39,6 +48,8 @@ export const App: React.FC<PropsApp> = props => {
           <MenuListItem><MenuIconText text="Daha fazla" Icon={IcMore}/></MenuListItem>
           <MenuListItem><MenuButton text="Tweetle"/></MenuListItem>
       </View>
+      <View style={styles.containerFeed}>
+      </View>
     </View>
   );
 };
@@ -48,13 +59,20 @@ const styles =
     container: {
       backgroundColor: '#000',
       flex: 1,
+      flexDirection: 'row'
     },
     containerMenuItems: {
-      backgroundColor: "#111",
-      flex: 1,
+
       width: 275,
       paddingStart: 18,
       paddingEnd: 18
+    },
+    containerFeed: {
+      borderRightWidth:1,
+      borderLeftWidth: 1,
+      borderColor: 'rgb(47, 51, 54)',
+      maxWidth: 600,
+      width:'100%',
     },
   });
 
