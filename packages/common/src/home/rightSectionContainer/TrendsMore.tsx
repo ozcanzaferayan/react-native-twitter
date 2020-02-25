@@ -16,24 +16,24 @@ interface Style {
 }
 
 export function TrendsMore({}) {
-  return <View style={{
-    flexDirection: "row",
-    marginStart: 14,
-    marginEnd: 14,
-    marginTop: 9,
-    marginBottom: 9,
-    justifyContent: "space-between"
-  }}>
-        <Text style={{
-      fontSize: 14,
-      color: colors.primary
-    }}>
-          {I18n.t("home.showMore")}
-        </Text>
-        <IcHome width={spacing.iconSettings} height={spacing.iconSettings} fill="rgb(110, 118, 125)" style={{
-      marginLeft: 13
-    }} />
-      </View>;
+  return (
+    <View
+      style={{
+        flexDirection: "row",
+        padding: 14,
+        justifyContent: "space-between"
+      }}
+    >
+      <Text
+        style={{
+          fontSize: 14,
+          color: colors.primary
+        }}
+      >
+        {I18n.t("home.showMore")}
+      </Text>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create<Style>({

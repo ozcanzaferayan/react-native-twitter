@@ -12,7 +12,7 @@ import Tweet from "../tweet/_Tweet";
 type Props = {
     // text: String;
   }
-  
+
   interface Style {
     containerFeed: ViewStyle;
   }
@@ -24,7 +24,7 @@ export const TweetContainer: React.FC<Props> = props => {
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: colors.text }}>{I18n.t('menu.home')}</Text>
             <IcHome fill={colors.primary} width={spacing.icon} height={spacing.icon}>/></IcHome>
           </View>
-          <View style={{ padding: 18, borderBottomWidth: spacing.hairline, borderColor: colors.hairline }}>
+          <View style={{ paddingTop: 9, paddingHorizontal:14, borderBottomWidth: 9, borderColor: colors.hairline }}>
             <TweetBox />
           </View>
           <Tweet/>
@@ -46,6 +46,6 @@ export const TweetContainer: React.FC<Props> = props => {
       borderLeftWidth: 1,
       borderColor: 'rgb(47, 51, 54)',
       maxWidth: 600,
-      width: '100%',
+      width: '100%'
     },
   });

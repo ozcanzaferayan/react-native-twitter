@@ -4,6 +4,7 @@ import spacing from "../../res/styles/spacing";
 import colors from "../../res/styles/colors";
 import I18n from "i18n-js";
 import IcHome from "../../res/icons/IcHome";
+import IcCaret from "../../res/icons/IcCaret";
 
 type Props = {
   // text: String;
@@ -38,7 +39,7 @@ export function Trend({}) {
           place: "Türkiye"
         })}
           </Text>
-          <IcHome width={spacing.iconTrendingCaret} height={spacing.iconTrendingCaret} fill="rgb(110, 118, 125)" style={{
+          <IcCaret width={spacing.iconCaret} height={spacing.iconCaret} fill="rgb(110, 118, 125)" style={{
         marginLeft: 13
       }} />
         </View>

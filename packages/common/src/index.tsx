@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput, TextStyle } from 'react-native';
+import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput, TextStyle, FlexStyle } from 'react-native';
 import IcBookmarks from "./res/icons/IcBookmarks";
 import IcDiscover from './res/icons/IcDiscover';
 import IcLists from "./res/icons/IcLists";
@@ -44,10 +44,20 @@ export const App: React.FC<Props> = props => {
 
 const styles =
   StyleSheet.create<Style>({
+    // @ts-ignore
     container: {
       backgroundColor: '#000',
       flex: 1,
-      flexDirection: 'row'
+      flexDirection: 'row',
+      justifyContent: 'center',
+      ...Platform.select({
+        web: {
+          overflow: 'auto',
+        },
+        default: {
+          overflow: 'scroll',
+        },
+      }),
     }
   });
 
