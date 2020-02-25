@@ -1,6 +1,6 @@
 import React from "react";
-interface PropsApp {
+declare type Props = {
     text: String;
-}
-export declare const App: React.FC<PropsApp>;
+};
+export declare const App: React.FC<Props>;
 export default App;

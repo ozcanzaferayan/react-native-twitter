@@ -1,5 +1,7 @@
 import React from 'react';
 import { SvgProps } from 'react-native-svg';
+import spacing from '../res/styles/spacing';
+import colors from '../res/styles/colors';
 
 
 type Props = {
@@ -9,10 +11,10 @@ type Props = {
 
 const MenuLogo: React.FC<Props> = props => {
   const Icon = props.Icon;
-  const color = props.color == null ? '#ffffff' : props.color;
+  const color = props.color == null ? colors.text : props.color;
 
   return (
-    <Icon fill={color} width={24} height={24} />
+    <Icon fill={color} width={spacing.icon} height={spacing.icon} />
   );
 }
 

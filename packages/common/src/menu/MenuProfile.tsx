@@ -1,5 +1,6 @@
 import React from 'react';
 import {Text, View, StyleSheet, TextStyle, ViewStyle, Image} from 'react-native';
+import spacing from '../res/styles/spacing';
 
 interface Style {
   text: TextStyle;
@@ -21,7 +22,7 @@ const MenuProfile: React.FC<Props> = props => {
   const styles = customStyles({ color: color});
   return (
     <View style={styles.container}>
-    <Image source={{uri: props.uri}} style={{width:24, height:24, borderRadius: 24}} />
+    <Image source={{uri: props.uri}} style={{width:spacing.icon, height:spacing.icon, borderRadius: spacing.radius}} />
     <Text style={styles.text}>{props.text}</Text>
   </View>
   );
@@ -34,7 +35,7 @@ const customStyles = (props: StyleProps) =>
       flex: 1
     },
     text: {
-      fontSize: 18,
+      fontSize: spacing.textMenu,
       marginStart: 5,
       marginEnd: 5,
       fontWeight: "bold",

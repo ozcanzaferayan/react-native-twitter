@@ -1,6 +1,7 @@
 import React from 'react';
 import {Text, View, StyleSheet, TextStyle, ViewStyle} from 'react-native';
-import Svg, { Path } from 'react-native-svg';
+import colors from '../res/styles/colors';
+import spacing from '../res/styles/spacing';
 
 interface Style {
   button: TextStyle;
@@ -22,16 +23,17 @@ const MenuButton: React.FC<Props> = props => {
 const styles =
   StyleSheet.create<Style>({
     button: {
-      color: "#ffffff",
+      color: colors.textButton,
       fontWeight: "bold",
-      fontSize: 14
+      fontSize: spacing.textButton
     },
     buttonContainer: {
-      backgroundColor: "rgb(29, 161, 242)",
+      backgroundColor: colors.primary,
       alignItems: "center",
       justifyContent: "center",
-      height: 44,
-      borderRadius: 44
+      height: spacing.heightTweetButton,
+      borderRadius: spacing.radius,
+      padding:18
     }
   });
 export default MenuButton;

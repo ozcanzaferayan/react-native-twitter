@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import {Text, View, StyleSheet, TextStyle, ViewStyle, TouchableHighlight, Platform} from 'react-native';
 import Svg, { Path } from 'react-native-svg';
+import spacing from '../res/styles/spacing';
 
 interface Style {
   touchableHighlight: ViewStyle;
@@ -15,7 +16,7 @@ interface StyleProps {
   colorBackground: string;
 }
 
-const MenuListItem: React.FC<Props> = props => {
+const MenuItem: React.FC<Props> = props => {
   const colorBackgroundNormal = "rgba(29, 161, 249, 0)";
   const colorBackgroundHover = "rgba(29, 161, 249, 0.1)";
   const colorBackgroundPress = "rgba(29, 161, 249, 0.2)";
@@ -51,9 +52,9 @@ const customStyles = (props: StyleProps) =>
   StyleSheet.create<Style>({
     touchableHighlight: {
       backgroundColor: props.colorBackground,
-      borderRadius: 9999,
+      borderRadius: spacing.radius,
       padding: 9,
       marginBottom: 4,
     },
   });
-export default MenuListItem;
+export default MenuItem;

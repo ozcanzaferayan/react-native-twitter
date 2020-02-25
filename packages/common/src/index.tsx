@@ -1,20 +1,28 @@
 import React from "react";
-import { Image, View, ViewStyle, StyleSheet, Text, Platform } from 'react-native';
-import IcBookmarks from "./icons/IcBookmarks";
-import IcDiscover from './icons/IcDiscover';
-import IcHome from './icons/IcHome';
-import IcLists from "./icons/IcLists";
-import IcMessages from "./icons/IcMessages";
-import IcMore from "./icons/IcMore";
-import IcNotifications from './icons/IcNotifications';
-import IcTwitter from "./icons/IcTwitter";
-import MenuButton from "./MenuButton";
-import MenuIconText from "./MenuIconText";
-import MenuProfile from "./MenuProfile";
-import MenuLogo from "./MenuLogo";
-import MenuListItem from "./MenuListItem";
+import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput } from 'react-native';
+import IcBookmarks from "./res/icons/IcBookmarks";
+import IcDiscover from './res/icons/IcDiscover';
+import IcLists from "./res/icons/IcLists";
+import IcMessages from "./res/icons/IcMessages";
+import IcMore from "./res/icons/IcMore";
+import IcNotifications from './res/icons/IcNotifications';
+import IcTwitter from "./res/icons/IcTwitter";
+import MenuButton from "./menu/MenuButton";
+import MenuIconText from "./menu/MenuIconText";
+import MenuProfile from "./menu/MenuProfile";
+import MenuLogo from "./menu/MenuLogo";
+import MenuItem from "./menu/MenuItem";
+import MenuContainer from "./menu/_MenuContainer";
+import IcHome from "./res/icons/IcHome";
+import colors from "./res/styles/colors";
+import spacing from "./res/styles/spacing";
+import I18n from "i18n-js";
+import TweetBox from "./home/tweetBox/_TweetBox";
+import ProfileImage from "./components/ProfileImage";
+import Tweet from "./home/tweet/_Tweet";
+import TweetContainer from "./home/tweetContainer/TweetContainer";
 
-interface PropsApp {
+type Props = {
   text: String;
 }
 
@@ -24,32 +32,12 @@ interface Style {
   containerFeed: ViewStyle;
 }
 
-export const App: React.FC<PropsApp> = props => {
+export const App: React.FC<Props> = props => {
   const uri = 'https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg';
-   return (
+  return (
     <View style={styles.container}>
-      {/*
-        // @ts-ignore */}
-      <View style={styles.containerMenuItems}
-        {...Platform.select({
-          web: {
-            accessibilityRole: 'banner'
-          }
-        })}
-        >
-          <MenuListItem><MenuLogo Icon={IcTwitter} /></MenuListItem>
-          <MenuListItem><MenuIconText text="Anasayfa" Icon={IcHome}/></MenuListItem>
-          <MenuListItem><MenuIconText text="Keşfet" Icon={IcDiscover}/></MenuListItem>
-          <MenuListItem><MenuIconText text="Bildirimler" Icon={IcNotifications} /></MenuListItem>
-          <MenuListItem><MenuIconText text="Mesajlar" Icon={IcMessages} /></MenuListItem>
-          <MenuListItem><MenuIconText text="Yer İşaretleri" Icon={IcBookmarks} /></MenuListItem>
-          <MenuListItem><MenuIconText text="Listeler" Icon={IcLists} /></MenuListItem>
-          <MenuListItem><MenuProfile  text="Profil" uri={uri} /></MenuListItem>
-          <MenuListItem><MenuIconText text="Daha fazla" Icon={IcMore}/></MenuListItem>
-          <MenuListItem><MenuButton text="Tweetle"/></MenuListItem>
-      </View>
-      <View style={styles.containerFeed}>
-      </View>
+      <MenuContainer/>
+      <TweetContainer/>
     </View>
   );
 };
@@ -68,11 +56,11 @@ const styles =
       paddingEnd: 18
     },
     containerFeed: {
-      borderRightWidth:1,
+      borderRightWidth: 1,
       borderLeftWidth: 1,
       borderColor: 'rgb(47, 51, 54)',
       maxWidth: 600,
-      width:'100%',
+      width: '100%',
     },
   });
 
