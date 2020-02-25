@@ -15,7 +15,9 @@ const tr = {
     searchOnTwitter: 'Twitter\'da Ara',
     trendsForYou: 'İlgini çekebilecek gündemler',
     showMore: 'Daha fazla göster',
-    trendingOn: '%{place} tarihinde gündemde'
+    trendingOn: '%{place} tarihinde gündemde',
+    whoToFollowHeader: 'Kimi takip etmeli',
+    follow: 'Takip et',
   },
   prettyTime: {
     long: {

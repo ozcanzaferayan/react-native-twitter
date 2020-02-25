@@ -20,13 +20,13 @@ export const Tweet: React.FC<Props> = props => {
         <ProfileImage/>
         <View style={{marginStart: 18, flex: 1, }}>
           <View style={{justifyContent:'space-between', flexDirection: 'row'}}>
-          <Text style={{fontSize: 16, fontWeight: 'bold', color:colors.text}}>Zafer AYAN <Text style={{fontWeight: 'normal', fontSize: 14, color:colors.textFaded}}>@ZaferAyan · 5d</Text></Text>
-          
+          <Text style={{fontSize: 14, fontWeight: 'bold', color:colors.text}}>Zafer AYAN <Text style={{fontWeight: 'normal', fontSize: 14, color:colors.textFaded}}>@ZaferAyan · 5d</Text></Text>
+
           <IcHome fill={colors.textFaded} width={spacing.icon} height={spacing.iconTweet}/>
           </View>
-          
-          <Text style={{fontSize: 16, color: colors.text}}>Yeni bir blog yazısı hazırladım. TypeScript Nedir? </Text>
-          <View style={{flexDirection: 'row', justifyContent: 'space-between', marginTop: 18, flex: 1}}>
+
+          <Text style={{fontSize: 14, color: colors.text, marginTop: 2}}>Yeni bir blog yazısı hazırladım. TypeScript Nedir? </Text>
+          <View style={{flexDirection: 'row', justifyContent: 'space-between', marginTop: 7, flex: 1}}>
             <TweetButton text="3"/>
             <TweetButton text="9"/>
             <TweetButton text="135"/>

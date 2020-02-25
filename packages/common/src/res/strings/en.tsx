@@ -15,6 +15,9 @@ const en = {
     searchOnTwitter: 'Search on Twitter',
     trendsForYu: 'Trends for you',
     showMore: 'Show more',
+    trendingOn: 'Trending on %{place}',
+    whoToFollowHeader: 'Who to follow',
+    follow: 'Follow',
   },
   prettyTime: {
     long: {
