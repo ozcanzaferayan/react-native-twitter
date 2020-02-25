@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput } from 'react-native';
+import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput, TextStyle } from 'react-native';
 import IcBookmarks from "./res/icons/IcBookmarks";
 import IcDiscover from './res/icons/IcDiscover';
 import IcLists from "./res/icons/IcLists";
@@ -21,6 +21,7 @@ import TweetBox from "./home/tweetBox/_TweetBox";
 import ProfileImage from "./components/ProfileImage";
 import Tweet from "./home/tweet/_Tweet";
 import TweetContainer from "./home/tweetContainer/TweetContainer";
+import RightSectionContainer from "./home/rightSectionContainer/RightSectionContainer";
 
 type Props = {
   text: String;
@@ -28,8 +29,6 @@ type Props = {
 
 interface Style {
   container: ViewStyle;
-  containerMenuItems: ViewStyle;
-  containerFeed: ViewStyle;
 }
 
 export const App: React.FC<Props> = props => {
@@ -38,6 +37,7 @@ export const App: React.FC<Props> = props => {
     <View style={styles.container}>
       <MenuContainer/>
       <TweetContainer/>
+      <RightSectionContainer/>
     </View>
   );
 };
@@ -48,20 +48,7 @@ const styles =
       backgroundColor: '#000',
       flex: 1,
       flexDirection: 'row'
-    },
-    containerMenuItems: {
-
-      width: 275,
-      paddingStart: 18,
-      paddingEnd: 18
-    },
-    containerFeed: {
-      borderRightWidth: 1,
-      borderLeftWidth: 1,
-      borderColor: 'rgb(47, 51, 54)',
-      maxWidth: 600,
-      width: '100%',
-    },
+    }
   });
 
 export default App;

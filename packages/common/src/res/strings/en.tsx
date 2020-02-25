@@ -12,6 +12,9 @@ const en = {
   },
   home: {
     whatsHappening: 'What\'s happening?',
+    searchOnTwitter: 'Search on Twitter',
+    trendsForYu: 'Trends for you',
+    showMore: 'Show more',
   },
   prettyTime: {
     long: {

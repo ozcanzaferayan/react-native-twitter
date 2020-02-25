@@ -11,7 +11,11 @@ const tr = {
     tweet: 'Tweetle',
   },
   home: {
-    whatsHappening: 'Neler oluyor?'
+    whatsHappening: 'Neler oluyor?',
+    searchOnTwitter: 'Twitter\'da Ara',
+    trendsForYou: 'İlgini çekebilecek gündemler',
+    showMore: 'Daha fazla göster',
+    trendingOn: '%{place} tarihinde gündemde'
   },
   prettyTime: {
     long: {
