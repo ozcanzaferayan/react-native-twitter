@@ -430,7 +430,7 @@
         "signature": "016d99e9eea0fe07a7c31d2e52c743cff3bffa662789a4d8b027075999e768e3"
       },
       "./src/index.tsx": {
-        "version": "b4cb384fb9e8c21591f13952d179c2278f8ee9b290432c70dae5b317c670548e",
+        "version": "22805337090d8ce53efcd41695a93d1d37a46f5cea5836a8d10e9ac2a782de26",
         "signature": "55227ebb99acfc5e69b8fc916c868f7a1b0e69fb810c75ce5eeed310215f1b9f"
       },
       "./src/otherscreen.tsx": {
@@ -757,6 +757,8 @@
         "./@types",
         "../../node_modules/@types"
       ],
+      "watch": true,
+      "incremental": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
@@ -2575,6 +2577,9 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "./src/router/index.tsx": [
+        "../../node_modules/@types/react-router-native/index.d.ts"
+      ],
       "../../node_modules/@types/react-native/globals.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -2746,6 +2751,12 @@
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
+      "./src/otherscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/otherscreen2.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
       "../../node_modules/@types/react-router-dom/index.d.ts": [
         "../../node_modules/@types/react-router/index.d.ts",
         "../../node_modules/@types/react/index.d.ts",
@@ -2754,6 +2765,9 @@
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/router/index.web.tsx": [
+        "../../node_modules/@types/react-router-dom/index.d.ts"
       ],
       "../../node_modules/@types/babel__generator/index.d.ts": [
         "../../node_modules/@babel/types/lib/index.d.ts",
@@ -3252,18 +3266,6 @@
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/router/index.tsx": [
-        "../../node_modules/@types/react-router-native/index.d.ts"
-      ],
-      "./src/otherscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/otherscreen2.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/router/index.web.tsx": [
-        "../../node_modules/@types/react-router-dom/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -3320,6 +3322,7 @@
       "../../node_modules/@types/history/index.d.ts",
       "../../node_modules/@types/react-router/index.d.ts",
       "../../node_modules/@types/react-router-native/index.d.ts",
+      "./src/router/index.tsx",
       "../../node_modules/@types/react-native/globals.d.ts",
       "../../node_modules/@types/react-native/legacy-properties.d.ts",
       "../../node_modules/@types/react-native/batchedbridge.d.ts",
@@ -3327,11 +3330,61 @@
       "../../node_modules/@types/react-native/launchscreen.d.ts",
       "../../node_modules/@types/react-native/index.d.ts",
       "../../node_modules/react-native-svg/src/index.d.ts",
+      "./src/res/icons/icbookmarks.tsx",
+      "./src/res/icons/icdiscover.tsx",
+      "./src/res/icons/iclists.tsx",
+      "./src/res/icons/icmessages.tsx",
+      "./src/res/icons/icmore.tsx",
+      "./src/res/icons/icnotifications.tsx",
+      "./src/res/icons/ictwitter.tsx",
+      "./src/res/styles/colors.tsx",
+      "./src/res/styles/spacing.tsx",
+      "./src/menu/menubutton.tsx",
+      "./src/menu/menuicontext.tsx",
+      "./src/menu/menuprofile.tsx",
+      "./src/menu/menulogo.tsx",
+      "./src/menu/menuitem.tsx",
+      "./src/res/icons/ichome.tsx",
       "../../node_modules/@types/i18n-js/index.d.ts",
       "../../node_modules/react-native-localize/index.d.ts",
+      "./src/res/strings/tr.tsx",
+      "./src/res/strings/en.tsx",
+      "./src/utils/i18n.tsx",
+      "./src/menu/_menucontainer.tsx",
+      "./src/components/profileimage.tsx",
+      "./src/res/icons/icphoto.tsx",
+      "./src/res/icons/icgif.tsx",
+      "./src/res/icons/icsurvey.tsx",
+      "./src/res/icons/icemoji.tsx",
+      "./src/res/icons/icothers.tsx",
+      "./src/home/tweetbox/_tweetbox.tsx",
       "../../node_modules/@babel/types/lib/index.d.ts",
+      "./src/home/tweet/tweetbutton.tsx",
+      "./src/res/icons/iccaret.tsx",
+      "./src/home/tweet/_tweet.tsx",
+      "./src/home/tweetcontainer/tweetcontainer.tsx",
+      "./src/home/rightsectioncontainer/trend.tsx",
+      "./src/home/rightsectioncontainer/trendsmore.tsx",
+      "./src/home/rightsectioncontainer/trendsforyou.tsx",
+      "./src/home/rightsectioncontainer/trendingcontainer.tsx",
+      "./src/home/rightsectioncontainer/searchbar.tsx",
+      "./src/home/rightsectioncontainer/whotofollowheader.tsx",
+      "./src/home/rightsectioncontainer/whotofollowmore.tsx",
+      "./src/home/rightsectioncontainer/name.tsx",
+      "./src/home/rightsectioncontainer/username.tsx",
+      "./src/home/rightsectioncontainer/followbutton.tsx",
+      "./src/home/rightsectioncontainer/whotofollowperson.tsx",
+      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
+      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
+      "./src/otherscreen.tsx",
+      "./src/otherscreen2.tsx",
+      "./src/routes.tsx",
       "../../node_modules/@types/react-router-dom/index.d.ts",
+      "./src/router/index.web.tsx",
       "./src/home/trendingcontainer/trendingcontainer.tsx",
+      "./src/res/colors/material_colors.tsx",
+      "./src/res/icons/props.tsx",
+      "./src/utils/prettytime.tsx",
       "../../node_modules/@types/babel__generator/index.d.ts",
       "../../node_modules/@types/babel__traverse/index.d.ts",
       "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -3397,58 +3450,7 @@
       "../../node_modules/@types/stack-utils/index.d.ts",
       "../../node_modules/@types/yargs-parser/index.d.ts",
       "../../node_modules/@types/yargs/index.d.ts",
-      "./src/router/index.tsx",
-      "./src/routes.tsx",
-      "./src/index.tsx",
-      "./src/res/icons/icbookmarks.tsx",
-      "./src/menu/_menucontainer.tsx",
-      "./src/home/tweetcontainer/tweetcontainer.tsx",
-      "./src/res/icons/icdiscover.tsx",
-      "./src/res/icons/iclists.tsx",
-      "./src/res/icons/icmessages.tsx",
-      "./src/res/icons/icmore.tsx",
-      "./src/res/icons/icnotifications.tsx",
-      "./src/res/icons/ictwitter.tsx",
-      "./src/res/styles/colors.tsx",
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
-      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
-      "./src/home/rightsectioncontainer/whotofollowperson.tsx",
-      "./src/home/rightsectioncontainer/followbutton.tsx",
-      "./src/home/rightsectioncontainer/username.tsx",
-      "./src/home/rightsectioncontainer/name.tsx",
-      "./src/home/rightsectioncontainer/whotofollowmore.tsx",
-      "./src/home/rightsectioncontainer/whotofollowheader.tsx",
-      "./src/home/rightsectioncontainer/trendingcontainer.tsx",
-      "./src/home/rightsectioncontainer/trendsforyou.tsx",
-      "./src/home/rightsectioncontainer/trendsmore.tsx",
-      "./src/home/rightsectioncontainer/trend.tsx",
-      "./src/home/tweet/_tweet.tsx",
-      "./src/home/tweet/tweetbutton.tsx",
-      "./src/home/tweetbox/_tweetbox.tsx",
-      "./src/menu/menulogo.tsx",
-      "./src/menu/menuicontext.tsx",
-      "./src/menu/menubutton.tsx",
-      "./src/res/styles/spacing.tsx",
-      "./src/home/rightsectioncontainer/searchbar.tsx",
-      "./src/menu/menuitem.tsx",
-      "./src/menu/menuprofile.tsx",
-      "./src/res/icons/ichome.tsx",
-      "./src/res/strings/tr.tsx",
-      "./src/utils/i18n.tsx",
-      "./src/res/strings/en.tsx",
-      "./src/components/profileimage.tsx",
-      "./src/res/icons/icphoto.tsx",
-      "./src/res/icons/icgif.tsx",
-      "./src/res/icons/icsurvey.tsx",
-      "./src/res/icons/icemoji.tsx",
-      "./src/res/icons/icothers.tsx",
-      "./src/res/icons/iccaret.tsx",
-      "./src/otherscreen.tsx",
-      "./src/otherscreen2.tsx",
-      "./src/router/index.web.tsx",
-      "./src/res/colors/material_colors.tsx",
-      "./src/res/icons/props.tsx",
-      "./src/utils/prettytime.tsx"
+      "./src/index.tsx"
     ]
   },
   "version": "3.7.5"

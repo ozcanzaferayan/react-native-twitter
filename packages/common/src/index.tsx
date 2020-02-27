@@ -39,14 +39,15 @@ export const App: React.FC = props => (
   <TweetContainer/>
   <RightSectionContainer/>
 </View>
-</ScrollView>  
+</ScrollView>
 );
 
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#000',
     paddingTop: 25,
-    padding: 10
+    padding: 10,
+    flexDirection: 'row'
   },
   header: {
     fontSize: 20
