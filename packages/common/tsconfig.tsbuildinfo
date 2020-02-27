@@ -169,6 +169,54 @@
         "version": "bca898ed5e156c4e4a272e3f4f39a576fe78ffd474f23857b1146279949e1460",
         "signature": "bca898ed5e156c4e4a272e3f4f39a576fe78ffd474f23857b1146279949e1460"
       },
+      "../../node_modules/@types/react/global.d.ts": {
+        "version": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc",
+        "signature": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc"
+      },
+      "../../node_modules/@types/react/index.d.ts": {
+        "version": "26f44cfe38dd5d80f72e8f00e8043a6e489159b9a863e0a2be19f34e6b79f1fb",
+        "signature": "26f44cfe38dd5d80f72e8f00e8043a6e489159b9a863e0a2be19f34e6b79f1fb"
+      },
+      "../../node_modules/@types/history/domutils.d.ts": {
+        "version": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953",
+        "signature": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953"
+      },
+      "../../node_modules/@types/history/createbrowserhistory.d.ts": {
+        "version": "9b7ecef2a99fc603b20ce8524a3459d260fa8b128f4dd71c8718e93ded32023d",
+        "signature": "9b7ecef2a99fc603b20ce8524a3459d260fa8b128f4dd71c8718e93ded32023d"
+      },
+      "../../node_modules/@types/history/createhashhistory.d.ts": {
+        "version": "fe2cd61bbf91d54ff07a1cd0174dd9338c1fd3f6069ae2a6119136aef817a9c8",
+        "signature": "fe2cd61bbf91d54ff07a1cd0174dd9338c1fd3f6069ae2a6119136aef817a9c8"
+      },
+      "../../node_modules/@types/history/creatememoryhistory.d.ts": {
+        "version": "9f96df319156b4debf90395c415c53f0080a4d9db97966fe69396760217413e0",
+        "signature": "9f96df319156b4debf90395c415c53f0080a4d9db97966fe69396760217413e0"
+      },
+      "../../node_modules/@types/history/locationutils.d.ts": {
+        "version": "7c076b2d16b2254072943e10999e08a5a650e0c6621ba04a501fc9e3f03f7371",
+        "signature": "7c076b2d16b2254072943e10999e08a5a650e0c6621ba04a501fc9e3f03f7371"
+      },
+      "../../node_modules/@types/history/pathutils.d.ts": {
+        "version": "4cd14cea22eed1bfb0dc76183e56989f897ac5b14c0e2a819e5162eafdcfe243",
+        "signature": "4cd14cea22eed1bfb0dc76183e56989f897ac5b14c0e2a819e5162eafdcfe243"
+      },
+      "../../node_modules/@types/history/index.d.ts": {
+        "version": "e056239c59d0bd24e2c8632a58fe3fb508921444f006378b2dc5ee140dc8c6a8",
+        "signature": "e056239c59d0bd24e2c8632a58fe3fb508921444f006378b2dc5ee140dc8c6a8"
+      },
+      "../../node_modules/@types/react-router/index.d.ts": {
+        "version": "9dc43e7de14463f159bc95d305c80d3c6d8cc1aeba1aff8bc9f9b076bd076e36",
+        "signature": "9dc43e7de14463f159bc95d305c80d3c6d8cc1aeba1aff8bc9f9b076bd076e36"
+      },
+      "../../node_modules/@types/react-router-native/index.d.ts": {
+        "version": "f1137a82a6f4d070362104678f7d226457f5624270c0c15fc8d34803aaafbc99",
+        "signature": "f1137a82a6f4d070362104678f7d226457f5624270c0c15fc8d34803aaafbc99"
+      },
+      "./src/router/index.tsx": {
+        "version": "8deb62231ce667b038be90702a90e85d5921d3476b2ae9b3583b9eba9e990032",
+        "signature": "99d2d8faa6bef4d426e42fa305d9765b36fb44e676472252f022580d13bfadff"
+      },
       "../../node_modules/@types/react-native/globals.d.ts": {
         "version": "48174dd3d7c04b2593269c9a51e0e8d8de9e74b51b6ce0f18de950e3d6182e56",
         "signature": "48174dd3d7c04b2593269c9a51e0e8d8de9e74b51b6ce0f18de950e3d6182e56"
@@ -189,14 +237,6 @@
         "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
         "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3"
       },
-      "../../node_modules/@types/react/global.d.ts": {
-        "version": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc",
-        "signature": "b4cd656db9b65fff477f65dbda00a5de4e2e765375316abd0c3ffd1282664ccc"
-      },
-      "../../node_modules/@types/react/index.d.ts": {
-        "version": "26f44cfe38dd5d80f72e8f00e8043a6e489159b9a863e0a2be19f34e6b79f1fb",
-        "signature": "26f44cfe38dd5d80f72e8f00e8043a6e489159b9a863e0a2be19f34e6b79f1fb"
-      },
       "../../node_modules/@types/react-native/index.d.ts": {
         "version": "69c21f99d2ba17fc169d9c4ca9e83c1103ecce0081d62f13aedac3bd19ac91c4",
         "signature": "69c21f99d2ba17fc169d9c4ca9e83c1103ecce0081d62f13aedac3bd19ac91c4"
@@ -206,64 +246,64 @@
         "signature": "8358ec85ac267609fb690db5359369d8b2e4f459ea4dfd3a8d112c91344d85b4"
       },
       "./src/res/icons/icbookmarks.tsx": {
-        "version": "5b537e9f86fe966204fd974ae2aed0d7ea4b7f6445f627eb1144bf67ddf81d2c",
-        "signature": "c2807ac1a278a1c0a355eccbe6c1cc2433d1538ba55cc6dc9271cf621f4ee2b6"
+        "version": "389d68b7d478f80408ad65f720ad35a95a3965626304dc5538466e3cce93cec0",
+        "signature": "2bcfd6a0e0c71816967c62a348bd241564c9687b794b1fc0966f4da492a7a181"
       },
       "./src/res/icons/icdiscover.tsx": {
-        "version": "88f754f4daafbae99b998ecd08edeef322ee9327f6da7f319d66711dd165db93",
-        "signature": "6873c783fc96438d3e147685720634a51fa6a1ed228ed4c2a09a6000f76c27b6"
+        "version": "e1b8f6c463e601fe79e518524b4ff47083e5d1e0c8cb4a6f084476ad70a2f841",
+        "signature": "489b9ab67e709bdae5bea6ae1cde4583866ce43b262a149ae72a5e4552972ee8"
       },
       "./src/res/icons/iclists.tsx": {
-        "version": "f38a6fd9faa235fb75eeca92d68ba287f7b5145d46329f07a0511e977a6b9955",
-        "signature": "0e6c60e30efbbdee3524c1c7e5cebd8add0902333c8b41afd0542d245176ebde"
+        "version": "7057ec5ad6878c9203915457fe05f14fa4dc8da9c77871b7f90310af2b864669",
+        "signature": "cb003eb624634cfc0c1f5f23cce4cdfb99b3acbbf6fd5d739f2feda3ed689475"
       },
       "./src/res/icons/icmessages.tsx": {
-        "version": "7123d13ed2949dbe66a4ce54b81f7137f01018e1e8b8c9c163a2d755015daf18",
-        "signature": "10a2723884930eda7e3a9b2c5f9d87af6d3eb7bf5b05da62bc67e7fc55bdbc48"
+        "version": "bd6cc146aab97dec8554760ad414b66e39570c9183e553f8c85b5a47afea7e4e",
+        "signature": "1c0bbe6425a14b3070419d7fdd6099529358adf7da3cda918f539e8b793c8d1e"
       },
       "./src/res/icons/icmore.tsx": {
-        "version": "ea02a78fb41c02fbc244c7410a477c447c0176bb7a8d2b16ef5224835d88ea0b",
-        "signature": "bf0a19aa39d61657df3b70bd1094a5664178ee775b817af62982cb44bc48e385"
+        "version": "0e3e5bd69a7531ee333354529dc650f10bf755fea04614c2c371e792defc2ee9",
+        "signature": "11cbd9cdbfe941175fe84a653863a0078fd82d5385bf9f4fb7a405914a5fa52c"
       },
       "./src/res/icons/icnotifications.tsx": {
-        "version": "98ae7d4f4fb0fa5c8ba7c716965eef7534fab4af89bdaecdec5c6bdd1637b189",
-        "signature": "c6d77e0979b76cd290288d49e5e0ddd6f226d0130826eee687de8fa03be800ef"
+        "version": "d3138191bd5cf39a00bfc8ca7b87bc63d4fa4aca02ab01dde0e3e83df65b8ba2",
+        "signature": "89d5447a01a260c4d8a9c0bb60888da3ab564d2a52b66919ff800b25c117c2f5"
       },
       "./src/res/icons/ictwitter.tsx": {
-        "version": "ef50cd38eea2405398469f19ceb4265ae8e414964ad5703468a9b20a5efa02d9",
-        "signature": "0ddff5385ce084c481ee62acb9271364d0cd353df6a1093f29332bb83593fd1a"
+        "version": "3a47aecb631c1469ce851d32f94b0e8a9310df035cb2aff484798d4fc5574e05",
+        "signature": "a8c31f79d0b410275e2657377bb2e27a0c60edf67dbd562ce156c256f6d1dd01"
       },
       "./src/res/styles/colors.tsx": {
-        "version": "d51d9518bef15db7e76649a01b0694026d17edd6a6adee648aba1097fb9c75df",
-        "signature": "da7460e7f360bf38d905efe073cd720b6330401b4899b9e8f653fc86419a2b29"
+        "version": "36ca577cdb1e39df80fb1339a2b77c7d81416093b9c4c3656329fda009495f3e",
+        "signature": "15cd540190fa24f3a8e21d3661d3f793048a038f3912f263ff5cb422b0b3251f"
       },
       "./src/res/styles/spacing.tsx": {
-        "version": "07dac4c4920fda8f7d4a360f9a77a4cda8ede99db8afb576a48fecce9b7058d7",
-        "signature": "fe535395976484735309717a5f10551618e3f5cfdb2adc10f670241299b869a5"
+        "version": "9a6f33c3c68b64ad75cb58b50452af2d390a97f9d5f95cb00b1aa38c0c6039f2",
+        "signature": "e857d959b3a391011864c126eb6586ca2a6fe77ddf2009eba3dcf89b12f95ef3"
       },
       "./src/menu/menubutton.tsx": {
-        "version": "9b7c5be6a147fb7f8feeb129824fd5a24bfb21fe678698059c5d3fb9c150af19",
-        "signature": "24be8d6edc767676e53828f5ea7613f2b2bd74ebd421073d2c01602c7a52152a"
+        "version": "580e3d479eb0235dde81c039a74b1b3e74b91d32f78f86a632008f56b5042f70",
+        "signature": "7755324fcac1fe968acf342345e8ff775f298f67947259112c17cd4a03694e3f"
       },
       "./src/menu/menuicontext.tsx": {
-        "version": "6b6d8f7d20257fc5874013892e596baa6c00d9456f51d6e2ff600f3f38299f17",
-        "signature": "eb54084239cddaf8d5bd24b4168e9887a2fb421ec23f1e937bf18f60da15557a"
+        "version": "28013f391be1c134c7c92221af81539f0c7927d2e7e4199b7e9842a07e780059",
+        "signature": "b6caea3fe0b932ecfce0f2c3961e7586be8643f3b48aea37c887916076f53d2a"
       },
       "./src/menu/menuprofile.tsx": {
-        "version": "c74e1cc0f67a1147b97e554143710040d68ade64571e118e53cf41f3f8faa766",
-        "signature": "326f1ef743e777fb15c5ce8526bd1e1e63c9d985b2ab9d5b735465cc4d01812d"
+        "version": "652b1d2587de96e24c0011da7dc1cd67c03780f44287f6514c794bad4c04e1f6",
+        "signature": "da56dec95929082e7307bc4968a6e13ee1ee121b4da8ef8dc988f97cba03d59d"
       },
       "./src/menu/menulogo.tsx": {
-        "version": "d55f7b4fc9dd84ff29371c412bb8c77f60c8ab7c170e74ef9e3ee5710af69f00",
-        "signature": "52a9d5707e69d5e630c5853dddd92e516ecc2371c75bffa1656e56c85821dfab"
+        "version": "b116293aecf06705c0e0a4b43e1822eaa28e72487e9bcc74401a2c9f50788beb",
+        "signature": "bfb2fe39caa5b9dd48b3452a54ce5485351b01efe90967fa82200da67222acce"
       },
       "./src/menu/menuitem.tsx": {
-        "version": "bebfc32449474cb10e14b24de970aad7347cd51735f0db2ea2bb201355a09817",
-        "signature": "fefa3167b915f4e73274019867b4ee40e0d10c13d3e4b0a5b9b14c87434a276e"
+        "version": "ddf377565da7df9bb8fcd2ce9ec0406d4d1f600f109f07f42819f23fc6ad27ab",
+        "signature": "810a568341f6f9567fb54f582c5a656704dbf1533adc61e2a2d16b18adc29b08"
       },
       "./src/res/icons/ichome.tsx": {
-        "version": "cd0fcb365a8f7b0f23f44848c3cd60cb64761be7e249e4741f35e6a982e3cd9c",
-        "signature": "0a6816aad43204cdf7998c073a3257d28c1718020702229198a7e16de51f807c"
+        "version": "b67b3f8c4321dce1f4a690e2d5e41ef039bb0512f26c3980b7d6f7119499e487",
+        "signature": "e6c0a365a78c65041e007d5b353a075d305601fd8872ef47e2ef77087e12bbe0"
       },
       "../../node_modules/@types/i18n-js/index.d.ts": {
         "version": "d77da61f41afa474293bf9258a393f46978ba3fe6b038cc79ec08ba226633e1f",
@@ -274,140 +314,160 @@
         "signature": "dc745df07617daa007ad2c5a6a0d7178d6a5b37a91fbf255c2b038a323075865"
       },
       "./src/res/strings/tr.tsx": {
-        "version": "74ddeff513dd9f6aa569740eb2b5b794cbfa4cf117d1bd2da0471d48b0ce6aab",
-        "signature": "d82e5c374d366786464645aec92eccc61ee051d9bdc2e1878273e7760b5a27d2"
+        "version": "839de63903dfd3e027e27669b99a66a542846ceb4ec24528b7afcbe7ebe21f4a",
+        "signature": "a94f3f9dd84f2595c5aebb1912cf2bf6522776c29b0a01bdb337dbd75c555857"
       },
       "./src/res/strings/en.tsx": {
-        "version": "2fdc5c643fb955f6ddc6878715d91f0823f7ebd63a01181ab800b73851a4d6a4",
-        "signature": "4ed8a7eef83198a520addaf22dc770870f6357f8495fe2c4785451dc36589edd"
+        "version": "e044f0cef0604390ce905ac3f79f6a6a0a91f5416421dcc93e789e5a999ea33c",
+        "signature": "81039f055aeabd83084e87534db387e6f95ff42d01d7cca8304f18349e0bfbb3"
       },
       "./src/utils/i18n.tsx": {
-        "version": "acc9852312e4ad68c7f585c8af53968d5b4e01edfc9d3615e305cd34c7a31eed",
-        "signature": "3a424f3e6174c5efc4e1926de1b685d121dc1da95d4d24fa5226ad5d844587c1"
+        "version": "b9a6e2e3096815e25413cda902d1221eb06cb981a8544a0b05cfefbc8bcbccaa",
+        "signature": "e106671354b5503ec1b90862cce81ae703aa3453a5b38e72d10b0a05df73b794"
       },
       "./src/menu/_menucontainer.tsx": {
-        "version": "83b7c75b0596692a7ce25cc66f1d9ef79c5328228c4a483bdd04a072f3d3597b",
-        "signature": "6c0f8370789931fec22d7aa0c86822b3a5cbdd1635d10d1a336e808a79bb833d"
+        "version": "e13ea3feb33e7735f5359a9aecbe1c0e368d083723c38a9b05b3405094d155ee",
+        "signature": "e3112b7d6565e5f95a9a7063375d9e522d056777db14a611700da9962fd825ad"
       },
       "./src/components/profileimage.tsx": {
-        "version": "eaaeaccaa0b553278d9f4584bf15ffac4f834742005d190fc4aa54d1a05f2417",
-        "signature": "04e299a3acffb39ce30c22f1d35ede409ed66e1c4a3b5f351063491cfe8a8a60"
+        "version": "bfbc14ce716716fcdec09d08c9f85241536cb1b50c41bd9f4ecf39125c78c516",
+        "signature": "eac09e1b5da026fd91aa3d512fc707d4ba624ab2a27fe4a45ba744801f8ac7e9"
       },
       "./src/res/icons/icphoto.tsx": {
-        "version": "6e878eda5e50416a8800eb4fd2cb0b7204762300ca22f3e7fc1d85cda4ecb40c",
-        "signature": "cbf7f1396013b328400ffdd9a62c009fdf5b2ade45fea19ac57571a1cbb9db94"
+        "version": "d25395d8de5f1af2b3244ce7ea59c0189970419abc689247648c673105a04d5c",
+        "signature": "c4213bec64651aa19e3f73a9620efb5d834c6a6e386350b0190c9ebe38c1a8b9"
       },
       "./src/res/icons/icgif.tsx": {
-        "version": "c7b16b128a73d973e916caa673b6a239db12586f3ca162cf51bc6810d41348bf",
-        "signature": "12ca8cc3143502d3d3bae532aef0a6cf73e0b66d3f1b5d7a63a252887cb1d4ab"
+        "version": "1ba3e603f4d067624c1e67d87bc000673d7310c35305512207e27922c6cc6de9",
+        "signature": "c418190669971f7e5bcd0fbd1100f90a472f0a0710b7508c107b750cdba0725f"
       },
       "./src/res/icons/icsurvey.tsx": {
-        "version": "c2856841c322f94dfddf88a7d859542425a17935f1ece36dd159a3809d32bc42",
-        "signature": "31286f5c3845118d282ad6433d7dcff3463eb4194a042590a76e7b53c1c526f6"
+        "version": "7e29aef3442dea0f54dab9edd5432b79066a48082b157efe4f4fe5b2de41e506",
+        "signature": "8c08bfddb5a52d2b63df969a66a75d2dcab2c08ca740f2ebadc2c7e8464c084c"
       },
       "./src/res/icons/icemoji.tsx": {
-        "version": "a1b367ad928dcd3eb437bfe8abc85d0c1c0a723acc60106415c9fbdcb6cea1e7",
-        "signature": "5478c49a3dc7328417817bcc00dfdb795d48eafb7bf0f796b70f0badd05d84c8"
+        "version": "e6a986880152cbc88ff82be13395c4235c2be32022c0d585619fc9a28b8f0c52",
+        "signature": "d0ce4cb1920b0f550e3d86de219aa36dd28fa75427e6c763612f402dcaeedf49"
       },
       "./src/res/icons/icothers.tsx": {
-        "version": "f1ab11bac8369d77bcd7f5c3328c28bef38e0c9d5d79d39e7b8e0f13f2fe7031",
-        "signature": "8118cc004b3523a78948d1debd85d504b352b58d5c67c3d7096ca4e4935836c5"
+        "version": "561b3d260ca6066f5a0fec0e0c4f0c354b9653a46e6b353126e27a9ad35bf816",
+        "signature": "9347cf088bf4c4c051e3c39858fc8e78bc58551aad936e745e8d0a8f13537905"
       },
       "./src/home/tweetbox/_tweetbox.tsx": {
-        "version": "a85f2bf0996803d659c0f62d2d9a76c00a132a0d05c62c9d27ea7b54d7372d23",
-        "signature": "22aeb19824f53d57e18439d1d3fbbb9ea3f321685b1f69e183aa8f56c30c6133"
+        "version": "fac6b8a9fce11704631a3ea0d5df1be752632a5b466335f0cbc7c7a737677e52",
+        "signature": "c4815ed51a7d25108f0a90f6f1b57e554d81e64dbfaaf8bc4bcc897071b9f612"
       },
       "../../node_modules/@babel/types/lib/index.d.ts": {
         "version": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85",
         "signature": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85"
       },
       "./src/home/tweet/tweetbutton.tsx": {
-        "version": "dc7a1f5de0cbf04311f1e3074f154595acd51daf5c2c0b506ac2faa3521c62ef",
-        "signature": "66f590ee2825cc06777cf7dab891d1c396b1151c75bc4654fd9ace32bab84cef"
+        "version": "1b761c02bc00d28963fad7363ebead150e1c3179f2c008128374326272d5ce39",
+        "signature": "fa7989f660434fa1e61960929bd0dfeca4f1ad573d02276724585bc00c7baa4c"
       },
       "./src/res/icons/iccaret.tsx": {
-        "version": "a651624074540e717d63f40ec58ea95c783b215e618510580d829930222a6eb5",
-        "signature": "8b67909e89f435e2c9a83f29b1eb23b065460602c6dd405a98497fafbb04ce38"
+        "version": "f660d9a4a6745725418fd3b1bd8dfa6b73a54df277b417d7b5b5fc90f3b205d7",
+        "signature": "ce7498c973cadaf6d33625cdf083d7954373a855f750b0726b66e382faafc8c6"
       },
       "./src/home/tweet/_tweet.tsx": {
-        "version": "c12cc8e3e032d032545f9f0d271ad4193cda437dd787028a7199f443f818f627",
-        "signature": "e32a9940d008e29d38ac99ce65d3f4bbc756f60ff11a3aaeac86a86238d071ee"
+        "version": "0d8b5e01219fcf8ff90f30eb2320cd5018c6b6715029aabc2dfe5d2877e29972",
+        "signature": "6b48f74e90e54d918ee8612fb5f014240b4819140668b709c2b1092ff2d4b800"
       },
       "./src/home/tweetcontainer/tweetcontainer.tsx": {
-        "version": "58074f6b115b3e53c302be300824ed7dc9f44ec5ff6ebe49b996725cae401c24",
-        "signature": "1bd743a807d264829c150f29f24b7ba67c97ed884ffbb87ae143a591a782d017"
+        "version": "09fdcd397b098ad2fd4983dd76eb44b4dd20de6a87d4e25d942e400a34aff4f1",
+        "signature": "b9a46946bf2e527fbff9f9166ff7bc18dd5815fb4bf10797175a2c02bc1cb18c"
       },
       "./src/home/rightsectioncontainer/trend.tsx": {
-        "version": "7db35adce0d4d61592ea7b0af6e0a800deb5f59ccfba4e0fc4d96eec6efc3b1e",
-        "signature": "ead6591dc4c1c2a1e8514c0c7c19674ba3ba25a5abea814c2928b7eff8899241"
+        "version": "6a28ed6628e9bb51f33dae2949706ff48bd47e421ea7d31facb9fe4b4278ba59",
+        "signature": "17024a128f9360a43d4246f44789f9a7f6e96f3b1218c1db169cc557435915a2"
       },
       "./src/home/rightsectioncontainer/trendsmore.tsx": {
-        "version": "8a174d95be173f6789ef82668b38b0adf9bdf57f9441a2b00c08b1099cfd760f",
-        "signature": "e227ee22fb18ff6da48d7a28ebb28848531fafa9ad38ab9eec436f7b6dbbc41f"
+        "version": "83df960013c1f0a60e74f2ad173ea772a535c46ca18e2e22af0731eca1524851",
+        "signature": "b3b06644c2b2c348c17e70fb4a9afad32945caac3c8eaa8365ba1d8b438b765d"
       },
       "./src/home/rightsectioncontainer/trendsforyou.tsx": {
-        "version": "7a91b29e8c87f164f024495ac23a4b72b553ccc408c7d0be8e60011a85a9f642",
-        "signature": "1eca03b73aff3ed7260cda7435dddec84037a9b87b824fbf7e4e2bf6fab26419"
+        "version": "c13dcc9dda45370160083470eb214ae133f3575268abe44a50030f3b9e5fdc07",
+        "signature": "3b118bc89af11d1d1f6b2622a4e1039676c5bfd330e4ae5791361fda65043879"
       },
       "./src/home/rightsectioncontainer/trendingcontainer.tsx": {
-        "version": "415d6ddfa9a2c5766ba47be0bdaa3b45be609fe608ffda1a0c2e915f3f38a7a2",
-        "signature": "fb4ff02a8bcd002021be6a5a8ee4ec406d55bd11575845e7a7a53135e0c69c2d"
+        "version": "b55c23ff8a8f51cf3c5075808d071954308eb0647327424a6812b588a5d921c3",
+        "signature": "5896abe2c8f24d224a0e531e7bec3be55779d7d9b56b34bc70e40e4ab974eab7"
       },
       "./src/home/rightsectioncontainer/searchbar.tsx": {
-        "version": "f7d4fe7cfb9d722887fd10a222e02c07a992eae4a35c6db144991cd6c1fd95a3",
-        "signature": "1200d25239845c3c7f26270086ec416475ed12c26958c0ebefe5d02bae00d329"
+        "version": "03e88783c8bdd887d6f1ba340c476fc79583eb7ffb4e5c8460cd35b2fbe2faad",
+        "signature": "92b16b2c2931d094b249c09fdf560ab16c7360ad6078b01dd003e421bf5b583b"
       },
       "./src/home/rightsectioncontainer/whotofollowheader.tsx": {
-        "version": "a4be1f6e92466d833756023eb1451e75949218971adb54835074f7b214f6b5cc",
-        "signature": "19fcffc1796d9ca4f7292f2ecd0a47177fa2cf604e53e6b4ba071fb4cfa31fdb"
+        "version": "8a22d89df777daf401bc2345becaeca1182b98a732e24ecccfeccbd66450ac1c",
+        "signature": "b0fc44438664c324c7d761f7e5a05490756dc71d6c49474e972b9ab005529cc5"
       },
       "./src/home/rightsectioncontainer/whotofollowmore.tsx": {
-        "version": "c1384c0cf74fa32083d1e081041abd553257e152680f4f5464747b34808a152c",
-        "signature": "f86f9d6813884df5cf30a5012e1f8b6bbe6fbccc2132bc7cd74bb56810a398a1"
+        "version": "3d4860630e061514f29619b0911773431857a5d19edeaa308a1df2b72aaee652",
+        "signature": "fb5735bdd1cfdffd31246c85003a0797b4637416b9c9f7abff31ccda5d9b8ff0"
       },
       "./src/home/rightsectioncontainer/name.tsx": {
-        "version": "352a0dc3f0260b8e19546f82d383d0b84b5947706132cc4abe7c678b54a1e4c6",
-        "signature": "0809da044946b749f90a0ff2a4ff2dfe5d4a057614e66d966f88be3a59c3331e"
+        "version": "f240170939687078d8aa7b1dc060e4fb3e1d1142e74be977c9f22cca8d4f78b7",
+        "signature": "fb62b1a60b77fbeea3d7c9e287f3232017dbf7356cb40fee25addc911b5e42f5"
       },
       "./src/home/rightsectioncontainer/username.tsx": {
-        "version": "2117ff2045258e96b6a86c846525763c7295ce32a054dd7841e3fb7eca3009d8",
-        "signature": "a1ed40a7dd18274f72c55a2c9beb63e165e107ce75825d3ac596fa22a9953465"
+        "version": "a4b86d6e4a2acdd450887c1674b740ad18b54baeebcf1299527e342d4c28b06a",
+        "signature": "c6164f214d59afd6a5b8e320acaa8ef427714e4d2ad993957b13cfc7c85afba6"
       },
       "./src/home/rightsectioncontainer/followbutton.tsx": {
-        "version": "f28d5b42435cb68c4949263d7dc11e7244fae9b3419f7fd8eb4ea5410833b5d4",
-        "signature": "d120141b0ef3c899a354931e1b80004f1060bbd3e1cf69bb356ea44d87e13e45"
+        "version": "c5c73feff734698d522ec07c4b2dba3abb1c1fb53154a7e8c9de57ce5f622910",
+        "signature": "9711d54617d20d294c7046455e4f340cc28cf115c5852e9be64e8a44302e3dbc"
       },
       "./src/home/rightsectioncontainer/whotofollowperson.tsx": {
-        "version": "2fee2492f84b98a9579d2097ab76c33579f91e09ff56b585eda45f7659a1e08c",
-        "signature": "978ed96bc8cff9f1f13ee3cfaa318f99e04f417367e5e534695cb513bc115d54"
+        "version": "68857312b3dc2fb2b013f1d1eed8aad57921a98fa3cfd9cb3c0928a9a48c89d2",
+        "signature": "46ce32fa4037a7f5b8119ba04e98b5fbc482c929d3f80c13b519beb326d568e9"
       },
       "./src/home/rightsectioncontainer/whotofollowcontainer.tsx": {
-        "version": "99351b3b5ee353df536c58bb5e73aad4a4f41bbecae43f7ad8d97531fa52676d",
-        "signature": "26eb0757c83b6643221be5721bd42445eef214a5c8c913170c1ae6e390acdd4a"
+        "version": "c09d5198fc87b22f7682df52dd40bbfe34694c56529a855674e913dafd063933",
+        "signature": "4c82df10e3c0dd2a7160d30c88be434901610f2eb0bd35807309ef9d25a7c5bd"
       },
       "./src/home/rightsectioncontainer/rightsectioncontainer.tsx": {
-        "version": "d864ed1d770ca721e3003078f0abd3a1e9a028bb64679ae14be398aad4044876",
-        "signature": "579b4516d191b88bf4216a941dfd9e5fcf246fad2b2f0fe8c3e68c558c236b35"
+        "version": "340d4abc4971fa196b773861e654dc39c782ee348a1bcb1d00916bd0cabfe8c9",
+        "signature": "016d99e9eea0fe07a7c31d2e52c743cff3bffa662789a4d8b027075999e768e3"
       },
       "./src/index.tsx": {
-        "version": "5f246d9ee779f4911d14a9c85139d0b2ab0fca33620cee9ad79034cfbab7ecf9",
-        "signature": "dc7de80b9c907ab899909955eb24f24a33e75193b9babbbeb6043edacabfcab1"
+        "version": "b4cb384fb9e8c21591f13952d179c2278f8ee9b290432c70dae5b317c670548e",
+        "signature": "55227ebb99acfc5e69b8fc916c868f7a1b0e69fb810c75ce5eeed310215f1b9f"
+      },
+      "./src/otherscreen.tsx": {
+        "version": "193e934ed631c654aec26e4714d51eb4fee03172ef58c127790cbdbedfe1b19f",
+        "signature": "d9cb999ce5a6a7b9d521c1fa08631d735a7ed2c04bdaf31b969859d7bb0e7e5d"
+      },
+      "./src/otherscreen2.tsx": {
+        "version": "469995c39c134683ed2c4ad320a826c8bb7eb3ad0a1930a6d4672176af39e0e3",
+        "signature": "3121ab91a65b958461aea36580253eb7e23608ec0f74d63ceb2fe017c40814b2"
+      },
+      "./src/routes.tsx": {
+        "version": "ddb3476591494deb775e6a353992b79561a2e8ec0ebf0888df7c7cd14b491ec9",
+        "signature": "2a4013c70daf073fe29eded2d5bcae95ea79aa555c2ad82b0f39fade1da70ae4"
+      },
+      "../../node_modules/@types/react-router-dom/index.d.ts": {
+        "version": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de",
+        "signature": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de"
+      },
+      "./src/router/index.web.tsx": {
+        "version": "f5351369b70b366f749143fb0e623c90c8a31c6f8028ff59edb1e8f5b228dc1b",
+        "signature": "4b595b1eb92df7e54fe6c41a31a26bb37b633045c200b1613889f3f35e9e0edf"
       },
       "./src/home/trendingcontainer/trendingcontainer.tsx": {
         "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
       },
       "./src/res/colors/material_colors.tsx": {
-        "version": "ebc4a6961cb91c28e60b2711976dea56ada1e3f911353f2638ac35bd5040bc64",
-        "signature": "0e172c3c07474257130fcc7d0339dc4e3ba8f006038f1d7c863535cfaae47fb1"
+        "version": "2d323c32363e7d5e697b2d6242d21fee0397149da2f49783f19e353219282ec2",
+        "signature": "839581a9aeedac46987d939c5944141f964bed4b38dcfda5034414954e278700"
       },
       "./src/res/icons/props.tsx": {
-        "version": "eb530533dcb4033dc2f6c8d7e33e5c0e985a02e7035f789efbe3552871843472",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+        "version": "557697bc03e1ed7629fb29caed4c00affd044127024d0b0f042bf1eac1b74689",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "./src/utils/prettytime.tsx": {
-        "version": "5753b8b1039871cc4dcf565ad92a434b546093ddbb541efc790d0c3ec8c00972",
-        "signature": "95e865c19181db80d0574d10557ab6b2fb3181435de93f73e6c5c94444c9afc0"
+        "version": "92ff04250551efe8f2f8100f261f66430f5daac506c64cb13581ed6b43c9cb29",
+        "signature": "af7a7eb26d27956efc4c61e97f7f0eba30860b69550de92a84021dbd72991ed9"
       },
       "../../node_modules/@types/babel__generator/index.d.ts": {
         "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
@@ -633,34 +693,6 @@
         "version": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee",
         "signature": "d852d6282c8dc8156d26d6bda83ab4bde51fee05ba2fe0ecdc165ddda009d3ee"
       },
-      "../../node_modules/@types/history/domutils.d.ts": {
-        "version": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953",
-        "signature": "dc49082466ff7e61cfbaf146f106a59274dbb95f726ed1e22a54375f82992953"
-      },
-      "../../node_modules/@types/history/createbrowserhistory.d.ts": {
-        "version": "9b7ecef2a99fc603b20ce8524a3459d260fa8b128f4dd71c8718e93ded32023d",
-        "signature": "9b7ecef2a99fc603b20ce8524a3459d260fa8b128f4dd71c8718e93ded32023d"
-      },
-      "../../node_modules/@types/history/createhashhistory.d.ts": {
-        "version": "fe2cd61bbf91d54ff07a1cd0174dd9338c1fd3f6069ae2a6119136aef817a9c8",
-        "signature": "fe2cd61bbf91d54ff07a1cd0174dd9338c1fd3f6069ae2a6119136aef817a9c8"
-      },
-      "../../node_modules/@types/history/creatememoryhistory.d.ts": {
-        "version": "9f96df319156b4debf90395c415c53f0080a4d9db97966fe69396760217413e0",
-        "signature": "9f96df319156b4debf90395c415c53f0080a4d9db97966fe69396760217413e0"
-      },
-      "../../node_modules/@types/history/locationutils.d.ts": {
-        "version": "7c076b2d16b2254072943e10999e08a5a650e0c6621ba04a501fc9e3f03f7371",
-        "signature": "7c076b2d16b2254072943e10999e08a5a650e0c6621ba04a501fc9e3f03f7371"
-      },
-      "../../node_modules/@types/history/pathutils.d.ts": {
-        "version": "4cd14cea22eed1bfb0dc76183e56989f897ac5b14c0e2a819e5162eafdcfe243",
-        "signature": "4cd14cea22eed1bfb0dc76183e56989f897ac5b14c0e2a819e5162eafdcfe243"
-      },
-      "../../node_modules/@types/history/index.d.ts": {
-        "version": "e056239c59d0bd24e2c8632a58fe3fb508921444f006378b2dc5ee140dc8c6a8",
-        "signature": "e056239c59d0bd24e2c8632a58fe3fb508921444f006378b2dc5ee140dc8c6a8"
-      },
       "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
         "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
         "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
@@ -684,18 +716,6 @@
       "../../node_modules/@types/q/index.d.ts": {
         "version": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a",
         "signature": "57427a9a368f8f0ee4ce03c36a762e19166756b95ab688948b29be553b24a78a"
-      },
-      "../../node_modules/@types/react-router/index.d.ts": {
-        "version": "9dc43e7de14463f159bc95d305c80d3c6d8cc1aeba1aff8bc9f9b076bd076e36",
-        "signature": "9dc43e7de14463f159bc95d305c80d3c6d8cc1aeba1aff8bc9f9b076bd076e36"
-      },
-      "../../node_modules/@types/react-router-dom/index.d.ts": {
-        "version": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de",
-        "signature": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de"
-      },
-      "../../node_modules/@types/react-router-native/index.d.ts": {
-        "version": "f1137a82a6f4d070362104678f7d226457f5624270c0c15fc8d34803aaafbc99",
-        "signature": "f1137a82a6f4d070362104678f7d226457f5624270c0c15fc8d34803aaafbc99"
       },
       "../../node_modules/@types/stack-utils/index.d.ts": {
         "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
@@ -737,8 +757,6 @@
         "./@types",
         "../../node_modules/@types"
       ],
-      "watch": true,
-      "incremental": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
@@ -997,6 +1015,100 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "../../node_modules/@types/react/global.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/csstype/index.d.ts",
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/domutils.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/createbrowserhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/createhashhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/creatememoryhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/locationutils.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/pathutils.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/index.d.ts": [
+        "../../node_modules/@types/history/createbrowserhistory.d.ts",
+        "../../node_modules/@types/history/createhashhistory.d.ts",
+        "../../node_modules/@types/history/creatememoryhistory.d.ts",
+        "../../node_modules/@types/history/locationutils.d.ts",
+        "../../node_modules/@types/history/pathutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react-router/index.d.ts": [
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react-router-native/index.d.ts": [
+        "../../node_modules/@types/react-router/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/router/index.tsx": [
+        "../../node_modules/@types/react-router-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "../../node_modules/@types/react-native/globals.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -1024,21 +1136,6 @@
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
       "../../node_modules/@types/react-native/launchscreen.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react/global.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react/index.d.ts": [
-        "../../node_modules/csstype/index.d.ts",
-        "../../node_modules/@types/prop-types/index.d.ts",
-        "../../node_modules/@types/react/global.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1560,6 +1657,52 @@
         "./src/home/tweet/_tweet.tsx",
         "./src/home/tweetcontainer/tweetcontainer.tsx",
         "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "./src/router/index.tsx",
+        "./src/routes.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/otherscreen.tsx": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/otherscreen2.tsx": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/routes.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "./src/router/index.tsx",
+        "./src/index.tsx",
+        "./src/otherscreen.tsx",
+        "./src/otherscreen2.tsx",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react-router-dom/index.d.ts": [
+        "../../node_modules/@types/react-router/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/router/index.web.tsx": [
+        "../../node_modules/@types/react-router-dom/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -2030,61 +2173,6 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "../../node_modules/@types/history/domutils.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/createbrowserhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/createhashhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/creatememoryhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/locationutils.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/pathutils.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/index.d.ts": [
-        "../../node_modules/@types/history/createbrowserhistory.d.ts",
-        "../../node_modules/@types/history/createhashhistory.d.ts",
-        "../../node_modules/@types/history/creatememoryhistory.d.ts",
-        "../../node_modules/@types/history/locationutils.d.ts",
-        "../../node_modules/@types/history/pathutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
       "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -2119,32 +2207,6 @@
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
       "../../node_modules/@types/q/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react-router/index.d.ts": [
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react-router-dom/index.d.ts": [
-        "../../node_modules/@types/react-router/index.d.ts",
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react-router-native/index.d.ts": [
-        "../../node_modules/@types/react-router/index.d.ts",
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -2426,6 +2488,93 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "../../node_modules/@types/react/global.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/csstype/index.d.ts",
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/domutils.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/createbrowserhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/createhashhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/creatememoryhistory.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/history/domutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/locationutils.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/pathutils.d.ts": [
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/history/index.d.ts": [
+        "../../node_modules/@types/history/createbrowserhistory.d.ts",
+        "../../node_modules/@types/history/createhashhistory.d.ts",
+        "../../node_modules/@types/history/creatememoryhistory.d.ts",
+        "../../node_modules/@types/history/locationutils.d.ts",
+        "../../node_modules/@types/history/pathutils.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react-router/index.d.ts": [
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/@types/react-router-native/index.d.ts": [
+        "../../node_modules/@types/react-router/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "../../node_modules/@types/react-native/globals.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -2453,21 +2602,6 @@
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
       "../../node_modules/@types/react-native/launchscreen.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react/global.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react/index.d.ts": [
-        "../../node_modules/csstype/index.d.ts",
-        "../../node_modules/@types/prop-types/index.d.ts",
-        "../../node_modules/@types/react/global.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -2611,6 +2745,15 @@
       ],
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-router-dom/index.d.ts": [
+        "../../node_modules/@types/react-router/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/history/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
       "../../node_modules/@types/babel__generator/index.d.ts": [
         "../../node_modules/@babel/types/lib/index.d.ts",
@@ -3052,61 +3195,6 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "../../node_modules/@types/history/domutils.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/createbrowserhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/createhashhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/creatememoryhistory.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/history/domutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/locationutils.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/pathutils.d.ts": [
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/history/index.d.ts": [
-        "../../node_modules/@types/history/createbrowserhistory.d.ts",
-        "../../node_modules/@types/history/createhashhistory.d.ts",
-        "../../node_modules/@types/history/creatememoryhistory.d.ts",
-        "../../node_modules/@types/history/locationutils.d.ts",
-        "../../node_modules/@types/history/pathutils.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
       "../../node_modules/@types/istanbul-lib-coverage/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -3146,32 +3234,6 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "../../node_modules/@types/react-router/index.d.ts": [
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react-router-dom/index.d.ts": [
-        "../../node_modules/@types/react-router/index.d.ts",
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/@types/react-router-native/index.d.ts": [
-        "../../node_modules/@types/react-router/index.d.ts",
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/history/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
       "../../node_modules/@types/stack-utils/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
@@ -3190,6 +3252,18 @@
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/router/index.tsx": [
+        "../../node_modules/@types/react-router-native/index.d.ts"
+      ],
+      "./src/otherscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/otherscreen2.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/router/index.web.tsx": [
+        "../../node_modules/@types/react-router-dom/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -3235,66 +3309,29 @@
       "../../node_modules/csstype/index.d.ts",
       "../../node_modules/@types/prop-types/index.d.ts",
       "./node_modules/@types/react/index.d.ts",
+      "../../node_modules/@types/react/global.d.ts",
+      "../../node_modules/@types/react/index.d.ts",
+      "../../node_modules/@types/history/domutils.d.ts",
+      "../../node_modules/@types/history/createbrowserhistory.d.ts",
+      "../../node_modules/@types/history/createhashhistory.d.ts",
+      "../../node_modules/@types/history/creatememoryhistory.d.ts",
+      "../../node_modules/@types/history/locationutils.d.ts",
+      "../../node_modules/@types/history/pathutils.d.ts",
+      "../../node_modules/@types/history/index.d.ts",
+      "../../node_modules/@types/react-router/index.d.ts",
+      "../../node_modules/@types/react-router-native/index.d.ts",
       "../../node_modules/@types/react-native/globals.d.ts",
       "../../node_modules/@types/react-native/legacy-properties.d.ts",
       "../../node_modules/@types/react-native/batchedbridge.d.ts",
       "../../node_modules/@types/react-native/devtools.d.ts",
       "../../node_modules/@types/react-native/launchscreen.d.ts",
-      "../../node_modules/@types/react/global.d.ts",
-      "../../node_modules/@types/react/index.d.ts",
       "../../node_modules/@types/react-native/index.d.ts",
       "../../node_modules/react-native-svg/src/index.d.ts",
-      "./src/res/icons/icbookmarks.tsx",
-      "./src/res/icons/icdiscover.tsx",
-      "./src/res/icons/iclists.tsx",
-      "./src/res/icons/icmessages.tsx",
-      "./src/res/icons/icmore.tsx",
-      "./src/res/icons/icnotifications.tsx",
-      "./src/res/icons/ictwitter.tsx",
-      "./src/res/styles/colors.tsx",
-      "./src/res/styles/spacing.tsx",
-      "./src/menu/menubutton.tsx",
-      "./src/menu/menuicontext.tsx",
-      "./src/menu/menuprofile.tsx",
-      "./src/menu/menulogo.tsx",
-      "./src/menu/menuitem.tsx",
-      "./src/res/icons/ichome.tsx",
       "../../node_modules/@types/i18n-js/index.d.ts",
       "../../node_modules/react-native-localize/index.d.ts",
-      "./src/res/strings/tr.tsx",
-      "./src/res/strings/en.tsx",
-      "./src/utils/i18n.tsx",
-      "./src/menu/_menucontainer.tsx",
-      "./src/components/profileimage.tsx",
-      "./src/res/icons/icphoto.tsx",
-      "./src/res/icons/icgif.tsx",
-      "./src/res/icons/icsurvey.tsx",
-      "./src/res/icons/icemoji.tsx",
-      "./src/res/icons/icothers.tsx",
-      "./src/home/tweetbox/_tweetbox.tsx",
       "../../node_modules/@babel/types/lib/index.d.ts",
-      "./src/home/tweet/tweetbutton.tsx",
-      "./src/res/icons/iccaret.tsx",
-      "./src/home/tweet/_tweet.tsx",
-      "./src/home/tweetcontainer/tweetcontainer.tsx",
-      "./src/home/rightsectioncontainer/trend.tsx",
-      "./src/home/rightsectioncontainer/trendsmore.tsx",
-      "./src/home/rightsectioncontainer/trendsforyou.tsx",
-      "./src/home/rightsectioncontainer/trendingcontainer.tsx",
-      "./src/home/rightsectioncontainer/searchbar.tsx",
-      "./src/home/rightsectioncontainer/whotofollowheader.tsx",
-      "./src/home/rightsectioncontainer/whotofollowmore.tsx",
-      "./src/home/rightsectioncontainer/name.tsx",
-      "./src/home/rightsectioncontainer/username.tsx",
-      "./src/home/rightsectioncontainer/followbutton.tsx",
-      "./src/home/rightsectioncontainer/whotofollowperson.tsx",
-      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
-      "./src/index.tsx",
+      "../../node_modules/@types/react-router-dom/index.d.ts",
       "./src/home/trendingcontainer/trendingcontainer.tsx",
-      "./src/res/colors/material_colors.tsx",
-      "./src/res/icons/props.tsx",
-      "./src/utils/prettytime.tsx",
       "../../node_modules/@types/babel__generator/index.d.ts",
       "../../node_modules/@types/babel__traverse/index.d.ts",
       "../../node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -3351,25 +3388,67 @@
       "../../node_modules/@types/node/ts3.5/index.d.ts",
       "../../node_modules/@types/minimatch/index.d.ts",
       "../../node_modules/@types/glob/index.d.ts",
-      "../../node_modules/@types/history/domutils.d.ts",
-      "../../node_modules/@types/history/createbrowserhistory.d.ts",
-      "../../node_modules/@types/history/createhashhistory.d.ts",
-      "../../node_modules/@types/history/creatememoryhistory.d.ts",
-      "../../node_modules/@types/history/locationutils.d.ts",
-      "../../node_modules/@types/history/pathutils.d.ts",
-      "../../node_modules/@types/history/index.d.ts",
       "../../node_modules/@types/istanbul-lib-coverage/index.d.ts",
       "../../node_modules/@types/istanbul-lib-report/index.d.ts",
       "../../node_modules/@types/istanbul-reports/index.d.ts",
       "../../node_modules/@types/json-schema/index.d.ts",
       "../../node_modules/@types/parse-json/index.d.ts",
       "../../node_modules/@types/q/index.d.ts",
-      "../../node_modules/@types/react-router/index.d.ts",
-      "../../node_modules/@types/react-router-dom/index.d.ts",
-      "../../node_modules/@types/react-router-native/index.d.ts",
       "../../node_modules/@types/stack-utils/index.d.ts",
       "../../node_modules/@types/yargs-parser/index.d.ts",
-      "../../node_modules/@types/yargs/index.d.ts"
+      "../../node_modules/@types/yargs/index.d.ts",
+      "./src/router/index.tsx",
+      "./src/routes.tsx",
+      "./src/index.tsx",
+      "./src/res/icons/icbookmarks.tsx",
+      "./src/menu/_menucontainer.tsx",
+      "./src/home/tweetcontainer/tweetcontainer.tsx",
+      "./src/res/icons/icdiscover.tsx",
+      "./src/res/icons/iclists.tsx",
+      "./src/res/icons/icmessages.tsx",
+      "./src/res/icons/icmore.tsx",
+      "./src/res/icons/icnotifications.tsx",
+      "./src/res/icons/ictwitter.tsx",
+      "./src/res/styles/colors.tsx",
+      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
+      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
+      "./src/home/rightsectioncontainer/whotofollowperson.tsx",
+      "./src/home/rightsectioncontainer/followbutton.tsx",
+      "./src/home/rightsectioncontainer/username.tsx",
+      "./src/home/rightsectioncontainer/name.tsx",
+      "./src/home/rightsectioncontainer/whotofollowmore.tsx",
+      "./src/home/rightsectioncontainer/whotofollowheader.tsx",
+      "./src/home/rightsectioncontainer/trendingcontainer.tsx",
+      "./src/home/rightsectioncontainer/trendsforyou.tsx",
+      "./src/home/rightsectioncontainer/trendsmore.tsx",
+      "./src/home/rightsectioncontainer/trend.tsx",
+      "./src/home/tweet/_tweet.tsx",
+      "./src/home/tweet/tweetbutton.tsx",
+      "./src/home/tweetbox/_tweetbox.tsx",
+      "./src/menu/menulogo.tsx",
+      "./src/menu/menuicontext.tsx",
+      "./src/menu/menubutton.tsx",
+      "./src/res/styles/spacing.tsx",
+      "./src/home/rightsectioncontainer/searchbar.tsx",
+      "./src/menu/menuitem.tsx",
+      "./src/menu/menuprofile.tsx",
+      "./src/res/icons/ichome.tsx",
+      "./src/res/strings/tr.tsx",
+      "./src/utils/i18n.tsx",
+      "./src/res/strings/en.tsx",
+      "./src/components/profileimage.tsx",
+      "./src/res/icons/icphoto.tsx",
+      "./src/res/icons/icgif.tsx",
+      "./src/res/icons/icsurvey.tsx",
+      "./src/res/icons/icemoji.tsx",
+      "./src/res/icons/icothers.tsx",
+      "./src/res/icons/iccaret.tsx",
+      "./src/otherscreen.tsx",
+      "./src/otherscreen2.tsx",
+      "./src/router/index.web.tsx",
+      "./src/res/colors/material_colors.tsx",
+      "./src/res/icons/props.tsx",
+      "./src/utils/prettytime.tsx"
     ]
   },
   "version": "3.7.5"
