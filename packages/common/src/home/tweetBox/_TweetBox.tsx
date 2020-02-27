@@ -1,4 +1,4 @@
-import { View, TextInput, Image } from "react-native";
+import { View, TextInput, Image, Platform } from "react-native";
 import React from "react";
 import I18n from "i18n-js";
 import spacing from "../../res/styles/spacing";
@@ -23,9 +23,7 @@ export const TweetBox: React.FC<Props> = props => {
         <View style={{ flexDirection: 'row' }}>
         <ProfileImage style={{marginHorizontal: 5}}/>
         <View style={{ marginStart: 5, flex: 1 }}>
-    {/*
-    //@ts-ignore*/}
-            <TextInput placeholder={I18n.t('home.whatsHappening')} multiline='true' numberOfLines={2} style={{ fontSize: spacing.textMenu, fontWeight: 'normal', outline: 'none', color: colors.text, width: '100%', paddingVertical: 9 }} />
+            <TextInput placeholder={I18n.t('home.whatsHappening')} multiline={true} numberOfLines={2} style={{ fontSize: spacing.textMenu, fontWeight: 'normal', color: colors.text,  paddingVertical: 9 }} />
             <View style={{ flexDirection: 'row', marginTop: 18, justifyContent: 'space-between', flex: 1, alignItems: 'center' }}>
                 <View style={{ flexDirection: 'row' }}>
                     <View style={{width:35, height:35, borderWidth:1, justifyContent: 'center', alignItems:'center'}}><IcPhoto fill={colors.primary} width={spacing.iconTweetBox} height={spacing.iconTweetBox}/></View>

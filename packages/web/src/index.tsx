@@ -1,9 +1,9 @@
-import App from "@monorepo/common";
+import {App} from 'common/src/index';
 import * as React from "react";
 import { AppRegistry } from "react-native";
 
 const Encapsulator = () => {
-  return <App text="Web" />;
+  return <App  />;
 };
 
 AppRegistry.registerComponent("App", () => Encapsulator);

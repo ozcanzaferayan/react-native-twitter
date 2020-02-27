@@ -1,14 +1,14 @@
 /**
  * @format
  */
-import App from '@monorepo/common';
+import { App } from 'common/src/index';
 import * as React from 'react';
-import {AppRegistry, SafeAreaView} from 'react-native';
-import {name as appName} from './app.json';
+import { AppRegistry, SafeAreaView } from 'react-native';
+import { name as appName } from './app.json';
 
 const Encapsulator = () => {
   return (
-    <SafeAreaView style={{flex: 1}}>
+    <SafeAreaView>
       <App text="Mobil" />
     </SafeAreaView>
   );

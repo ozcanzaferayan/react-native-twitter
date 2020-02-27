@@ -1,21 +1,21 @@
 {
-  "name": "@monorepo/common",
+  "name": "common",
   "version": "1.0.0",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "rm -rf dist && tsc",
-    "watch": "tsc --watch"
-  },
-  "license": "MIT",
+  "private": true,
   "dependencies": {
     "@types/i18n-js": "^3.0.1",
     "i18n-js": "^3.5.1",
-    "react-native": "^0.61.5",
+    "react": "16.12.0",
+    "react-native": "0.61.5",
     "react-native-localize": "^1.3.3",
-    "react-native-svg": "^11.0.1"
+    "react-native-svg": "^11.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-router-native": "^5.1.2"
   },
   "devDependencies": {
-    "@types/react-native": "^0.61.16",
-    "typescript": "^3.8.2"
+    "@types/react": "16.9.19",
+    "@types/react-native": "0.61.12",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/react-router-native": "^5.1.0"
   }
 }

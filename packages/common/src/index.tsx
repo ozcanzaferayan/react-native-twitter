@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput, TextStyle, FlexStyle } from 'react-native';
+import { Image, View, ViewStyle, StyleSheet, Text, Platform, TextInput, TextStyle, FlexStyle, AppRegistry, ScrollView } from 'react-native';
 import IcBookmarks from "./res/icons/IcBookmarks";
 import IcDiscover from './res/icons/IcDiscover';
 import IcLists from "./res/icons/IcLists";
@@ -22,43 +22,51 @@ import ProfileImage from "./components/ProfileImage";
 import Tweet from "./home/tweet/_Tweet";
 import TweetContainer from "./home/tweetContainer/TweetContainer";
 import RightSectionContainer from "./home/rightSectionContainer/RightSectionContainer";
+import { Router, Link, Route } from "./Router/index";
+import { Routes } from "./Routes";
 
-type Props = {
-  text: String;
-}
 
-interface Style {
-  container: ViewStyle;
-}
 
-export const App: React.FC<Props> = props => {
-  const uri = 'https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg';
-  return (
-    <View style={styles.container}>
-      <MenuContainer/>
-      <TweetContainer/>
-      <RightSectionContainer/>
-    </View>
-  );
-};
+export const Home = () => <Text>Home</Text>;
 
-const styles =
-  StyleSheet.create<Style>({
-    // @ts-ignore
-    container: {
-      backgroundColor: '#000',
-      flex: 1,
-      flexDirection: 'row',
-      justifyContent: 'center',
-      ...Platform.select({
-        web: {
-          overflow: 'auto',
-        },
-        default: {
-          overflow: 'scroll',
-        },
-      }),
-    }
-  });
+export const About = () => <Text>About</Text>;
+
+export const App: React.FC = props => (
+  // <Routes/>
+  <ScrollView>
+  <View style={styles.container}>
+  <MenuContainer/>
+  <TweetContainer/>
+  <RightSectionContainer/>
+</View>
+</ScrollView>  
+);
+
+const styles = StyleSheet.create({
+  container: {
+    backgroundColor: '#000',
+    paddingTop: 25,
+    padding: 10
+  },
+  header: {
+    fontSize: 20
+  },
+  nav: {
+    flexDirection: "row",
+    justifyContent: "space-around"
+  },
+  navItem: {
+    flex: 1,
+    alignItems: "center",
+    padding: 10
+  },
+  subNavItem: {
+    padding: 5
+  },
+  topic: {
+    textAlign: "center",
+    fontSize: 15
+  }
+});
 
 export default App;
