@@ -1,4 +1,9 @@
 {
   "name": "mobile",
-  "displayName": "mobile"
+  "displayName": "mobile",
+  "description": "",
+  "packagerOpts": {
+    "config": "metro.config.js",
+    "sourceExts": ["js", "jsx", "svg", "ts", "tsx"]
+  }
 }

@@ -2,6 +2,7 @@
   "name": "mobile",
   "version": "1.0.0",
   "private": true,
+
   "scripts": {
     "android": "react-native run-android",
     "compile": "tsc -b --incremental",
@@ -11,7 +12,7 @@
     "start": "concurrently \"npm run compile -- -w\" \"react-native start\"",
     "studio": "studio android",
     "test": "jest",
-    "xcode": "open ios/myprojectname.xcworkspace"
+    "xcode": "open ios/mobile.xcworkspace"
   },
   "dependencies": {
     "common": "1.0.0",
@@ -32,9 +33,9 @@
     "eslint": "6.8.0",
     "jest": "25.1.0",
     "metro-react-native-babel-preset": "^0.58.0",
-    "react-native-svg-transformer": "^0.14.3",
     "react-test-renderer": "16.12.0",
-    "typescript": "3.7.5"
+    "typescript": "3.7.5",
+    "react-native-svg-transformer": "^0.14.3"
   },
   "jest": {
     "preset": "react-native"
