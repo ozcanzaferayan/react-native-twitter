@@ -6,10 +6,12 @@ const spacing = {
     iconSearch: 17.5,
     iconSettings: 21,
     iconCaret: 14,
+    iconTweetAppend: 18,
     iconTweetAction: 17.5,
     iconTweetBox: 21,
     radius: 9999,
-    heightTweetButton: 44,
+    heightMenuTweetButton: 44,
+    heightTweetButton: 35,
     hairline: 1,
 }
 export default spacing;
