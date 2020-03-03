@@ -3,6 +3,7 @@ import { View, TextInput } from "react-native";
 import spacing from "../../res/styles/spacing";
 import IcHome from "../../res/icons/IcHome";
 import I18n from "i18n-js";
+import IcSearch from "../../res/icons/IcSearch";
 
 export const SearchBar = () => (
   <View
@@ -14,7 +15,7 @@ export const SearchBar = () => (
       borderRadius: spacing.radius
     }}
   >
-    <IcHome
+    <IcSearch
       width={spacing.iconSearch}
       height={spacing.iconSearch}
       fill='#6e767d'

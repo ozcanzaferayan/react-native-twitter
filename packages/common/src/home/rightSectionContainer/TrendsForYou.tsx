@@ -4,6 +4,7 @@ import spacing from "../../res/styles/spacing";
 import colors from "../../res/styles/colors";
 import I18n from "i18n-js";
 import IcHome from "../../res/icons/IcHome";
+import IcSettings from "../../res/icons/IcSettings";
 
 type Props = {
   // text: String;
@@ -30,10 +31,10 @@ export function TrendsForYou({}) {
       }}
     >
       <Text style={styles.text}>{I18n.t("home.trendsForYou")}</Text>
-      <IcHome
+      <IcSettings
         width={spacing.iconSettings}
         height={spacing.iconSettings}
-        fill="#6e767d"
+        fill={colors.primary}
         style={{
           marginLeft: 13
         }}

@@ -8,6 +8,10 @@ import MenuButton from "../../menu/MenuButton";
 import ProfileImage from "../../components/ProfileImage";
 import TweetButton from "./TweetButton";
 import IcCaret from "../../res/icons/IcCaret";
+import IcComment from "../../res/icons/IcComment";
+import IcLike from "../../res/icons/IcLike";
+import IcRetweet from "../../res/icons/IcRetweet";
+import IcShare from "../../res/icons/IcShare";
 
 
 interface Props {
@@ -30,10 +34,10 @@ export const Tweet: React.FC<Props> = props => {
 
             <Text style={{fontSize: 14, color: colors.text, marginTop: 2}}>Yeni bir blog yazısı hazırladım. TypeScript Nedir? </Text>
             <View style={{flexDirection: 'row', justifyContent: 'space-between', marginTop: 7, flex: 1}}>
-              <TweetButton text="3"/>
-              <TweetButton text="9"/>
-              <TweetButton text="135"/>
-              <TweetButton/>
+              <TweetButton text="3" icon={IcComment}/>
+              <TweetButton text="9" icon={IcRetweet}/>
+              <TweetButton text="135" icon={IcLike}/>
+              <TweetButton icon={IcShare}/>
             </View>
           </View>
         </View>

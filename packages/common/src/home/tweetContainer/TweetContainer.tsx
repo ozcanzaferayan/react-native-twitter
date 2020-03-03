@@ -7,6 +7,7 @@ import I18n from "i18n-js";
 import IcHome from "../../res/icons/IcHome";
 import TweetBox from "../tweetBox/_TweetBox";
 import Tweet from "../tweet/_Tweet";
+import IcPopularTweets from "../../res/icons/IcPopularTweets";
 
 
 type Props = {
@@ -20,9 +21,9 @@ type Props = {
 export const TweetContainer: React.FC<Props> = props => {
     return (
         <View style={styles.containerFeed}>
-          <View style={{ padding: 18, flexDirection: 'row', justifyContent: 'space-between', borderBottomWidth: spacing.hairline, borderColor: colors.hairline, }}>
+          <View style={{ height: 49, paddingRight: 14, paddingLeft: 14, alignItems:'center', flexDirection: 'row', justifyContent: 'space-between', borderBottomWidth: spacing.hairline, borderColor: colors.hairline, }}>
             <Text style={{ fontSize: 18, fontWeight: 'bold', color: colors.text }}>{I18n.t('menu.home')}</Text>
-            <IcHome fill={colors.primary} width={spacing.icon} height={spacing.icon}>/></IcHome>
+            <IcPopularTweets fill={colors.primary} width={spacing.iconSettings} height={spacing.iconSettings}/>
           </View>
           <View style={{ paddingTop: 9, paddingHorizontal:14, borderBottomWidth: 9, borderColor: colors.hairline }}>
             <TweetBox />

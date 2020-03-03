@@ -17,15 +17,15 @@ import I18n from '../utils/i18n';
 
 interface Props {
 }
-  
+
   interface Style {
     container: ViewStyle;
   }
-  
+
   export const MenuContainer: React.FC<Props> = props => {
     const uri = 'https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg';
      return (
-        // @ts-ignore 
+        // @ts-ignore
         <View style={styles.container}
           {...Platform.select({
             web: {
@@ -46,16 +46,15 @@ interface Props {
         </View>
     );
   };
-  
+
   const styles =
     StyleSheet.create<Style>({
 
       container: {
         width: 275,
         paddingStart: 18,
-        paddingEnd: 18
+        paddingEnd: 18,
       },
     });
-  
+
   export default MenuContainer;
-  
