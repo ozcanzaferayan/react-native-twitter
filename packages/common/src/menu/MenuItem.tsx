@@ -9,6 +9,7 @@ interface Style {
 
 type Props = {
   children: React.ReactElement;
+  match?: boolean;
 }
 
 interface StyleProps {
@@ -44,7 +45,7 @@ const MenuItem: React.FC<Props> = props => {
         }
       })}
     >
-      {React.cloneElement(props.children, { color: color })}
+      {React.cloneElement(props.children, { color: color, match: props.match })}
     </TouchableHighlight>
   );
 }

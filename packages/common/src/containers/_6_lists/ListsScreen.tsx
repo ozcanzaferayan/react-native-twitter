@@ -4,10 +4,15 @@ import {
   StyleSheet,
   Text,
 } from "react-native";
+import TweetContainer from "../_1_home/tweetContainer/TweetContainer";
+import RightSectionContainer from "../_1_home/rightSectionContainer/RightSectionContainer";
 
 
 export const ListsScreen: React.FC = props => (
-  <Text>ListsScreen</Text>
+  <>
+  <TweetContainer />
+  <RightSectionContainer />
+</>
 );
 
 const styles = StyleSheet.create({

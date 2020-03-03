@@ -1,18 +1,17 @@
 import React from "react";
-import {
-  View,
-  StyleSheet,
-  Text,
-} from "react-native";
-
+import { View, StyleSheet, Text } from "react-native";
+import TweetContainer from "./tweetContainer/TweetContainer";
+import RightSectionContainer from "./rightSectionContainer/RightSectionContainer";
 
 export const HomeScreen: React.FC = props => (
-  <Text>HomeScreen</Text>
+  <>
+    <TweetContainer />
+    <RightSectionContainer />
+  </>
 );
 
 const styles = StyleSheet.create({
-  container: {
-  },
+  container: {}
 });
 
 export default HomeScreen;

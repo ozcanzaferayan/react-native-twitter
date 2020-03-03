@@ -469,8 +469,12 @@
         "version": "281e5e6268f631bf7c5484262fcbd21e8d0bcfc0faa18b368de9f2a8f2a86a46",
         "signature": "016d99e9eea0fe07a7c31d2e52c743cff3bffa662789a4d8b027075999e768e3"
       },
+      "./src/containers/_1_home/homescreen.tsx": {
+        "version": "1be243246e40fc8f7fa0d112464a3029111b9fb208ef41b4725c33ced0c95312",
+        "signature": "3e9f804d1a6c07faa84beea84949e4706d93d89472426a80845c83fe4f2632ed"
+      },
       "./src/index.tsx": {
-        "version": "311cab1c14345f0db6be6c5b549987695d46d53cf75f91ecae801a52e6de39ce",
+        "version": "3fc35b6381d01ec7588e89eebd48d6ee67195e6db4df73025ba030e4ec79bab4",
         "signature": "55227ebb99acfc5e69b8fc916c868f7a1b0e69fb810c75ce5eeed310215f1b9f"
       },
       "./src/otherscreen.tsx": {
@@ -481,8 +485,16 @@
         "version": "469995c39c134683ed2c4ad320a826c8bb7eb3ad0a1930a6d4672176af39e0e3",
         "signature": "3121ab91a65b958461aea36580253eb7e23608ec0f74d63ceb2fe017c40814b2"
       },
+      "./src/containers/_2_discover/discoverscreen.tsx": {
+        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
+        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+      },
+      "./src/containers/_3_notifications/notificationsscreen.tsx": {
+        "version": "0686737c97dd6eea476071b80a3932bf17abe344baf3a852dc75502235528727",
+        "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
+      },
       "./src/routes.tsx": {
-        "version": "ddb3476591494deb775e6a353992b79561a2e8ec0ebf0888df7c7cd14b491ec9",
+        "version": "454b01bd3a9c2e355723a3bff2fdb67f40a565ee8524fca9e370ec9afc619546",
         "signature": "2a4013c70daf073fe29eded2d5bcae95ea79aa555c2ad82b0f39fade1da70ae4"
       },
       "../../node_modules/@types/react-router-dom/index.d.ts": {
@@ -493,21 +505,9 @@
         "version": "f5351369b70b366f749143fb0e623c90c8a31c6f8028ff59edb1e8f5b228dc1b",
         "signature": "4b595b1eb92df7e54fe6c41a31a26bb37b633045c200b1613889f3f35e9e0edf"
       },
-      "./src/containers/_1_home/homescreen.tsx": {
-        "version": "369c0df25ac24054fd3b6ea023f304ba25212be2626ca8cfda0486404f46a6f0",
-        "signature": "3e9f804d1a6c07faa84beea84949e4706d93d89472426a80845c83fe4f2632ed"
-      },
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": {
         "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-      },
-      "./src/containers/_2_discover/discoverscreen.tsx": {
-        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
-        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
-      },
-      "./src/containers/_3_notifications/notificationsscreen.tsx": {
-        "version": "0686737c97dd6eea476071b80a3932bf17abe344baf3a852dc75502235528727",
-        "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
       },
       "./src/containers/_4_messages/messagesscreen.tsx": {
         "version": "983a4b363ef37eac42add8ff06105c4a86b40426186cdc7f2d5dc1d40f4b54a8",
@@ -1796,6 +1796,16 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "./src/containers/_1_home/homescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
@@ -1823,6 +1833,7 @@
         "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
         "./src/router/index.tsx",
         "./src/routes.tsx",
+        "./src/containers/_1_home/homescreen.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1844,6 +1855,22 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "./src/routes.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "./src/router/index.tsx",
@@ -1851,6 +1878,8 @@
         "./src/otherscreen.tsx",
         "./src/otherscreen2.tsx",
         "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_2_discover/discoverscreen.tsx",
+        "./src/containers/_3_notifications/notificationsscreen.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1872,31 +1901,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/containers/_1_home/homescreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_2_discover/discoverscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_3_notifications/notificationsscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -3006,6 +3011,9 @@
       "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
+      "./src/containers/_1_home/homescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
@@ -3013,6 +3021,12 @@
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/otherscreen2.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "../../node_modules/@types/react-router-dom/index.d.ts": [
@@ -3026,15 +3040,6 @@
       ],
       "./src/router/index.web.tsx": [
         "../../node_modules/@types/react-router-dom/index.d.ts"
-      ],
-      "./src/containers/_1_home/homescreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_2_discover/discoverscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_3_notifications/notificationsscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
       ],
       "./src/containers/_4_messages/messagesscreen.tsx": [
         "./node_modules/@types/react/index.d.ts"
@@ -3665,15 +3670,15 @@
       "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx",
       "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx",
       "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
-      "./src/index.tsx",
+      "./src/containers/_1_home/homescreen.tsx",
       "./src/otherscreen.tsx",
       "./src/otherscreen2.tsx",
+      "./src/containers/_2_discover/discoverscreen.tsx",
+      "./src/containers/_3_notifications/notificationsscreen.tsx",
       "./src/routes.tsx",
       "../../node_modules/@types/react-router-dom/index.d.ts",
       "./src/router/index.web.tsx",
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx",
-      "./src/containers/_2_discover/discoverscreen.tsx",
-      "./src/containers/_3_notifications/notificationsscreen.tsx",
       "./src/containers/_4_messages/messagesscreen.tsx",
       "./src/containers/_5_bookmarks/bookmarksscreen.tsx",
       "./src/containers/_6_lists/listsscreen.tsx",
@@ -3746,7 +3751,7 @@
       "../../node_modules/@types/stack-utils/index.d.ts",
       "../../node_modules/@types/yargs-parser/index.d.ts",
       "../../node_modules/@types/yargs/index.d.ts",
-      "./src/containers/_1_home/homescreen.tsx"
+      "./src/index.tsx"
     ]
   },
   "version": "3.7.5"

@@ -4,10 +4,15 @@ import {
   StyleSheet,
   Text,
 } from "react-native";
+import TweetContainer from "../_1_home/tweetContainer/TweetContainer";
+import RightSectionContainer from "../_1_home/rightSectionContainer/RightSectionContainer";
 
 
 export const DiscoverScreen: React.FC = props => (
-  <Text>Discover</Text>
+  <>
+  <TweetContainer />
+  <RightSectionContainer />
+</>
 );
 
 const styles = StyleSheet.create({

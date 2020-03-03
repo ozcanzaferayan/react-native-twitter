@@ -13,6 +13,7 @@ type Props = {
   text: string;
   Icon: React.FC<SvgProps>;
   color?: string;
+  match?: boolean;
 }
 
 interface StyleProps {
@@ -21,7 +22,9 @@ interface StyleProps {
 
 const MenuIconText: React.FC<Props> = props => {
   const Icon = props.Icon;
-  const color = props.color == null ? colors.text : props.color;
+  const color = props.match ? colors.primary :
+  props.color == null ? colors.text : props.color;
+
 
   const styles = customStyles({ color: color});
   return (
