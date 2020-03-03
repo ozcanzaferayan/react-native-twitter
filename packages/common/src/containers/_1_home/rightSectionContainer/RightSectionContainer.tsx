@@ -8,10 +8,10 @@ import {
   StyleSheet
 } from "react-native";
 import React from "react";
-import spacing from "../../res/styles/spacing";
-import IcHome from "../../res/icons/IcHome";
+import spacing from "../../../res/styles/spacing";
+import IcHome from "../../../res/icons/IcHome";
 import I18n from "i18n-js";
-import colors from "../../res/styles/colors";
+import colors from "../../../res/styles/colors";
 import { SearchBar } from "./SearchBar";
 import { WhoToFollowContainer } from './WhoToFollowContainer';
 

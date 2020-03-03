@@ -1,9 +1,9 @@
 import React from "react";
 import { TextStyle, View, Text, StyleSheet } from "react-native";
-import colors from "../../res/styles/colors";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
-import spacing from "../../res/styles/spacing";
+import IcHome from "../../../res/icons/IcHome";
+import spacing from "../../../res/styles/spacing";
 
 type Props = {
   // text: String;
@@ -15,7 +15,7 @@ interface Style {
   trendingTitleText: TextStyle;
 }
 
-export function TrendsMore({}) {
+export function WhoToFollowMore({}) {
   return (
     <View
       style={{

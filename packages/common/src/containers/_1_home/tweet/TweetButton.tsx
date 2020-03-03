@@ -1,7 +1,7 @@
 import React from "react";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
-import IcHome from "../../res/icons/IcHome";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
+import IcHome from "../../../res/icons/IcHome";
 import { View, Text } from "react-native";
 import { tsPropertySignature } from "@babel/types";
 import { SvgProps } from "react-native-svg";

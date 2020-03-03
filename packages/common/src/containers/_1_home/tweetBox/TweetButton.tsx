@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text, View, StyleSheet, TextStyle, ViewStyle} from 'react-native';
-import colors from '../../res/styles/colors';
-import spacing from '../../res/styles/spacing';
+import colors from '../../../res/styles/colors';
+import spacing from '../../../res/styles/spacing';
 
 interface Style {
   button: TextStyle;

@@ -1,10 +1,9 @@
 import React from "react";
 import { View, Text, StyleSheet, TextStyle } from "react-native";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
-import IcSettings from "../../res/icons/IcSettings";
+import IcHome from "../../../res/icons/IcHome";
 
 type Props = {
   // text: String;
@@ -16,7 +15,7 @@ interface Style {
   trendingTitleText: TextStyle;
 }
 
-export function TrendsForYou({}) {
+export function WhoToFollowHeader({}) {
   return (
     <View
       style={{
@@ -30,15 +29,7 @@ export function TrendsForYou({}) {
         justifyContent: "space-between"
       }}
     >
-      <Text style={styles.text}>{I18n.t("home.trendsForYou")}</Text>
-      <IcSettings
-        width={spacing.iconSettings}
-        height={spacing.iconSettings}
-        fill={colors.primary}
-        style={{
-          marginLeft: 13
-        }}
-      />
+      <Text style={styles.text}>{I18n.t("home.whoToFollowHeader")}</Text>
     </View>
   );
 }

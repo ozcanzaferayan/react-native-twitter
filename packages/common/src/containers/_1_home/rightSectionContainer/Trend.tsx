@@ -1,10 +1,10 @@
 import React from "react";
 import { TextStyle, View, Text, StyleSheet } from "react-native";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
-import IcCaret from "../../res/icons/IcCaret";
+import IcHome from "../../../res/icons/IcHome";
+import IcCaret from "../../../res/icons/IcCaret";
 
 type Props = {
   // text: String;

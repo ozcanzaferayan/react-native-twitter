@@ -1,9 +1,9 @@
 import React from "react";
-import { View, Text, StyleSheet, TextStyle } from "react-native";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
+import { TextStyle, View, Text, StyleSheet } from "react-native";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
+import IcHome from "../../../res/icons/IcHome";
+import spacing from "../../../res/styles/spacing";
 
 type Props = {
   // text: String;
@@ -15,21 +15,23 @@ interface Style {
   trendingTitleText: TextStyle;
 }
 
-export function WhoToFollowHeader({}) {
+export function TrendsMore({}) {
   return (
     <View
       style={{
         flexDirection: "row",
-        paddingStart: 14,
-        paddingEnd: 14,
-        paddingTop: 9,
-        paddingBottom: 9,
-        borderBottomWidth: spacing.hairline,
-        borderColor: colors.hairline,
+        padding: 14,
         justifyContent: "space-between"
       }}
     >
-      <Text style={styles.text}>{I18n.t("home.whoToFollowHeader")}</Text>
+      <Text
+        style={{
+          fontSize: 14,
+          color: colors.primary
+        }}
+      >
+        {I18n.t("home.showMore")}
+      </Text>
     </View>
   );
 }

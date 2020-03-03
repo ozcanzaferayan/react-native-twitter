@@ -361,20 +361,20 @@
         "version": "815a2213cbec87d6fdd665939ab65f659afdb7500b3d46d122a73312bef854cc",
         "signature": "16629cf8c831c53a50d0cbf42ed69b4c8a0e4722ea359298f227820843273660"
       },
-      "./src/home/tweetbox/tweetbutton.tsx": {
-        "version": "5be68db0b54de979f73aefe779db5c840abb81eda439fdb14c45eb04373f188f",
+      "./src/containers/_1_home/tweetbox/tweetbutton.tsx": {
+        "version": "bb6ad019e18b852fe507752cd005beb82fbbca3e8ded7c2f35059917034a2ed1",
         "signature": "28838850742656a5d9794eeddd32dabca0e8bb51f3adf3331800a8040360a761"
       },
-      "./src/home/tweetbox/_tweetbox.tsx": {
-        "version": "90648d3e436f20c37e5187f83499a5a1d4ba0704c2c86e782892badd2560a808",
+      "./src/containers/_1_home/tweetbox/_tweetbox.tsx": {
+        "version": "17b9686a9ab256c9819415f98a846c2592819f44303654a6916e6232030ecee6",
         "signature": "c4815ed51a7d25108f0a90f6f1b57e554d81e64dbfaaf8bc4bcc897071b9f612"
       },
       "../../node_modules/@babel/types/lib/index.d.ts": {
         "version": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85",
         "signature": "b05f0003bcf151be87491c83a4ba37b561798f1282b92cedb3a4e75a0224eb85"
       },
-      "./src/home/tweet/tweetbutton.tsx": {
-        "version": "ea240131026365b6e98d41149f13cf32f354ff56cfadcd13f22dfa525ebdc7d8",
+      "./src/containers/_1_home/tweet/tweetbutton.tsx": {
+        "version": "4625750cbf2b164c84d7415da0bfe2d60edc9a62c0b0385f753e72ced97a4ce2",
         "signature": "47f2daa8853aa9f97afa7bf18c283d157ed0b213ede72415a9a629cb32af7bd5"
       },
       "./src/res/icons/iccaret.tsx": {
@@ -397,80 +397,80 @@
         "version": "0c5143e3a876adf3cd98c4b884027181232682f5b560bdd6cdaade3ccc2a1f37",
         "signature": "cdc4c329dd3f97c574f3ad68804141c800ea93624025e014e20159e3c20997f5"
       },
-      "./src/home/tweet/_tweet.tsx": {
-        "version": "13197f48d89cd6ccb8d7e3e7980cae90ba70d977cdb81344ee8bf6106ee36a07",
+      "./src/containers/_1_home/tweet/_tweet.tsx": {
+        "version": "574127074f5f98d99e7272cf0b5e85a1d67f4b18a2578ad6a308de0678e36d2a",
         "signature": "6b48f74e90e54d918ee8612fb5f014240b4819140668b709c2b1092ff2d4b800"
       },
       "./src/res/icons/icpopulartweets.tsx": {
         "version": "60b16ce985f5ee942e624132d1cf54325fdad647f38c931f1225d83a6c3f69d8",
         "signature": "a25e2d27a234c7a934449e55ed0a7aa774bf3b41c4762fa42b48ae6dddfa2ab7"
       },
-      "./src/home/tweetcontainer/tweetcontainer.tsx": {
-        "version": "0c01f01bbece5afd2f37c2ab2a5a38031831891929ae9fbd63b0d3e39e620eb1",
+      "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx": {
+        "version": "d75ed904cafefa92c798f054cde61b45ec6ee145c98c1591560916a164b59b2d",
         "signature": "b9a46946bf2e527fbff9f9166ff7bc18dd5815fb4bf10797175a2c02bc1cb18c"
       },
-      "./src/home/rightsectioncontainer/trend.tsx": {
-        "version": "6a28ed6628e9bb51f33dae2949706ff48bd47e421ea7d31facb9fe4b4278ba59",
+      "./src/containers/_1_home/rightsectioncontainer/trend.tsx": {
+        "version": "f92489a630da5d722466041a6cf9d95cedf17d4a688358e5894446866489d6b1",
         "signature": "17024a128f9360a43d4246f44789f9a7f6e96f3b1218c1db169cc557435915a2"
       },
-      "./src/home/rightsectioncontainer/trendsmore.tsx": {
-        "version": "83df960013c1f0a60e74f2ad173ea772a535c46ca18e2e22af0731eca1524851",
+      "./src/containers/_1_home/rightsectioncontainer/trendsmore.tsx": {
+        "version": "0e2f37ea9111b91012017fcb6abc60beb64f1fdabca5b4132184760db1824527",
         "signature": "b3b06644c2b2c348c17e70fb4a9afad32945caac3c8eaa8365ba1d8b438b765d"
       },
       "./src/res/icons/icsettings.tsx": {
         "version": "544ad685e335a9b5334e3773cd50d2a8a507fc0598db6e7cb7acb4e1cfce0b70",
         "signature": "4b9d932ca55d474ff5f77a6ac378d061e35acebe4ec9f50aac01dc484f76b984"
       },
-      "./src/home/rightsectioncontainer/trendsforyou.tsx": {
-        "version": "8b67be59a58fe7b74c3361210494114bf0eca781bf6a4875f7a5b70dfb7c6a7f",
+      "./src/containers/_1_home/rightsectioncontainer/trendsforyou.tsx": {
+        "version": "cd79272e792ea1bfe8e37dacc228749e83ea5c7638aecbb20ae42173f5554da5",
         "signature": "3b118bc89af11d1d1f6b2622a4e1039676c5bfd330e4ae5791361fda65043879"
       },
-      "./src/home/rightsectioncontainer/trendingcontainer.tsx": {
-        "version": "b55c23ff8a8f51cf3c5075808d071954308eb0647327424a6812b588a5d921c3",
+      "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx": {
+        "version": "b8984430f7f291939af8de05ccd6cc45be5f40afaa1804dec346ac8964fce252",
         "signature": "5896abe2c8f24d224a0e531e7bec3be55779d7d9b56b34bc70e40e4ab974eab7"
       },
       "./src/res/icons/icsearch.tsx": {
         "version": "c693d6aae2583cd4aa10ab2e72a07b1081cb0cf9b6ae68fc0d2074b2ca1e0f86",
         "signature": "b82ac7263924994fb1fc4a1c2134ce6afc17d692079ac6386f19a7960b62c93f"
       },
-      "./src/home/rightsectioncontainer/searchbar.tsx": {
-        "version": "e2a8bfe283ef897ba32d8569df7e20d8ec9c1cffd32cc3aaf3f68bfb7e4b5873",
+      "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx": {
+        "version": "4ec4c2f56ae91b1911a118cbfd4af3239fe94cd7a94664ed43669f517cd4c06f",
         "signature": "92b16b2c2931d094b249c09fdf560ab16c7360ad6078b01dd003e421bf5b583b"
       },
-      "./src/home/rightsectioncontainer/whotofollowheader.tsx": {
-        "version": "8a22d89df777daf401bc2345becaeca1182b98a732e24ecccfeccbd66450ac1c",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowheader.tsx": {
+        "version": "aff37848128336c537543bba993482e2d2ee28f71f2d23a93695f1b21d283583",
         "signature": "b0fc44438664c324c7d761f7e5a05490756dc71d6c49474e972b9ab005529cc5"
       },
-      "./src/home/rightsectioncontainer/whotofollowmore.tsx": {
-        "version": "14b8840022e11ff969dde202fcb85abd6889b0c75428f037225b0f90da45a888",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowmore.tsx": {
+        "version": "9c4c0c0c5944e0ca98dfb5620f65100910e7f303827350e25791fd1637bd6040",
         "signature": "fb5735bdd1cfdffd31246c85003a0797b4637416b9c9f7abff31ccda5d9b8ff0"
       },
-      "./src/home/rightsectioncontainer/name.tsx": {
-        "version": "f240170939687078d8aa7b1dc060e4fb3e1d1142e74be977c9f22cca8d4f78b7",
+      "./src/containers/_1_home/rightsectioncontainer/name.tsx": {
+        "version": "6f1b5aeb59f4bc87ffedb999450664d969b92f3a6071c04bc0718a27bdb996a9",
         "signature": "fb62b1a60b77fbeea3d7c9e287f3232017dbf7356cb40fee25addc911b5e42f5"
       },
-      "./src/home/rightsectioncontainer/username.tsx": {
-        "version": "a4b86d6e4a2acdd450887c1674b740ad18b54baeebcf1299527e342d4c28b06a",
+      "./src/containers/_1_home/rightsectioncontainer/username.tsx": {
+        "version": "9e2fb6d893699d8fb1077bcf8a77424db1f725684fbadbfdcd93b991c1611d93",
         "signature": "c6164f214d59afd6a5b8e320acaa8ef427714e4d2ad993957b13cfc7c85afba6"
       },
-      "./src/home/rightsectioncontainer/followbutton.tsx": {
-        "version": "c5c73feff734698d522ec07c4b2dba3abb1c1fb53154a7e8c9de57ce5f622910",
+      "./src/containers/_1_home/rightsectioncontainer/followbutton.tsx": {
+        "version": "1eef72bad774cfc250cf981ccf35c45739fa71c54cc1b8c964c6e2fecaf8bffb",
         "signature": "9711d54617d20d294c7046455e4f340cc28cf115c5852e9be64e8a44302e3dbc"
       },
-      "./src/home/rightsectioncontainer/whotofollowperson.tsx": {
-        "version": "68857312b3dc2fb2b013f1d1eed8aad57921a98fa3cfd9cb3c0928a9a48c89d2",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx": {
+        "version": "f54da77c5163b621d8d1034388bc9c4acc15d00927307e3b7e3b1fcc376da3b3",
         "signature": "46ce32fa4037a7f5b8119ba04e98b5fbc482c929d3f80c13b519beb326d568e9"
       },
-      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx": {
-        "version": "c09d5198fc87b22f7682df52dd40bbfe34694c56529a855674e913dafd063933",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx": {
+        "version": "b3fcd146f6ac84e38cc233fe115a3551fe88254acaf4a6d3af7209f49e1189cf",
         "signature": "4c82df10e3c0dd2a7160d30c88be434901610f2eb0bd35807309ef9d25a7c5bd"
       },
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx": {
-        "version": "340d4abc4971fa196b773861e654dc39c782ee348a1bcb1d00916bd0cabfe8c9",
+      "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": {
+        "version": "281e5e6268f631bf7c5484262fcbd21e8d0bcfc0faa18b368de9f2a8f2a86a46",
         "signature": "016d99e9eea0fe07a7c31d2e52c743cff3bffa662789a4d8b027075999e768e3"
       },
       "./src/index.tsx": {
-        "version": "f021352ba50e550980f4bad4ab30fa208c0a97f70f7b178f5c511ce13d10ed92",
+        "version": "311cab1c14345f0db6be6c5b549987695d46d53cf75f91ecae801a52e6de39ce",
         "signature": "55227ebb99acfc5e69b8fc916c868f7a1b0e69fb810c75ce5eeed310215f1b9f"
       },
       "./src/otherscreen.tsx": {
@@ -493,9 +493,37 @@
         "version": "f5351369b70b366f749143fb0e623c90c8a31c6f8028ff59edb1e8f5b228dc1b",
         "signature": "4b595b1eb92df7e54fe6c41a31a26bb37b633045c200b1613889f3f35e9e0edf"
       },
-      "./src/home/trendingcontainer/trendingcontainer.tsx": {
+      "./src/containers/_1_home/homescreen.tsx": {
+        "version": "32dcf763f17da175855a381cefae9514efbee223a2ca397206993af1a721562e",
+        "signature": "3e9f804d1a6c07faa84beea84949e4706d93d89472426a80845c83fe4f2632ed"
+      },
+      "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": {
         "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "./src/containers/_2_discover/discoverscreen.tsx": {
+        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
+        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+      },
+      "./src/containers/_3_notifications/notificationsscreen.tsx": {
+        "version": "0686737c97dd6eea476071b80a3932bf17abe344baf3a852dc75502235528727",
+        "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
+      },
+      "./src/containers/_4_messages/messagesscreen.tsx": {
+        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
+        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+      },
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": {
+        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
+        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+      },
+      "./src/containers/_6_lists/listsscreen.tsx": {
+        "version": "f2065f45bcb3b3329204e3b5d0103659f8fdf9b7ba0ed57b7be6008e2a98379c",
+        "signature": "0282535348fc443b2249d97f9a9c666c7f3a4220bd5afdc07550a857ea5020e9"
+      },
+      "./src/containers/_7_profile/profilescreen.tsx": {
+        "version": "6a85d02c056d48020280eb69d3eeca430aecb234a5f73fd2a8decc76de4be176",
+        "signature": "1c95f99c0431b865440643a6b1acd8a53cd11d879032aac2c65621b0b6fc9b64"
       },
       "./src/res/colors/material_colors.tsx": {
         "version": "2d323c32363e7d5e697b2d6242d21fee0397149da2f49783f19e353219282ec2",
@@ -1450,7 +1478,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweetbox/tweetbutton.tsx": [
+      "./src/containers/_1_home/tweetbox/tweetbutton.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1460,7 +1488,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweetbox/_tweetbox.tsx": [
+      "./src/containers/_1_home/tweetbox/_tweetbox.tsx": [
         "../../node_modules/@types/react-native/index.d.ts",
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/i18n-js/index.d.ts",
@@ -1476,7 +1504,7 @@
         "./src/res/icons/icothers.tsx",
         "./src/res/icons/ictweeteditpogressbar.tsx",
         "./src/res/icons/ictweetappend.tsx",
-        "./src/home/tweetbox/tweetbutton.tsx",
+        "./src/containers/_1_home/tweetbox/tweetbutton.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1488,7 +1516,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweet/tweetbutton.tsx": [
+      "./src/containers/_1_home/tweet/tweetbutton.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "./src/res/styles/spacing.tsx",
         "./src/res/styles/colors.tsx",
@@ -1541,7 +1569,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweet/_tweet.tsx": [
+      "./src/containers/_1_home/tweet/_tweet.tsx": [
         "../../node_modules/@types/react-native/index.d.ts",
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/i18n-js/index.d.ts",
@@ -1550,7 +1578,7 @@
         "./src/res/icons/ichome.tsx",
         "./src/menu/menubutton.tsx",
         "./src/components/profileimage.tsx",
-        "./src/home/tweet/tweetbutton.tsx",
+        "./src/containers/_1_home/tweet/tweetbutton.tsx",
         "./src/res/icons/iccaret.tsx",
         "./src/res/icons/iccomment.tsx",
         "./src/res/icons/iclike.tsx",
@@ -1569,7 +1597,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweetcontainer/tweetcontainer.tsx": [
+      "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/menu/_menucontainer.tsx",
@@ -1577,15 +1605,15 @@
         "./src/res/styles/colors.tsx",
         "../../node_modules/@types/i18n-js/index.d.ts",
         "./src/res/icons/ichome.tsx",
-        "./src/home/tweetbox/_tweetbox.tsx",
-        "./src/home/tweet/_tweet.tsx",
+        "./src/containers/_1_home/tweetbox/_tweetbox.tsx",
+        "./src/containers/_1_home/tweet/_tweet.tsx",
         "./src/res/icons/icpopulartweets.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/trend.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/trend.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1598,7 +1626,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/trendsmore.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/trendsmore.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1618,7 +1646,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/trendsforyou.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/trendsforyou.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1631,10 +1659,10 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/trendingcontainer.tsx": [
-        "./src/home/rightsectioncontainer/trend.tsx",
-        "./src/home/rightsectioncontainer/trendsmore.tsx",
-        "./src/home/rightsectioncontainer/trendsforyou.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx": [
+        "./src/containers/_1_home/rightsectioncontainer/trend.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/trendsmore.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/trendsforyou.tsx",
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1654,7 +1682,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/searchbar.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1666,7 +1694,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/whotofollowheader.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowheader.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1678,7 +1706,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/whotofollowmore.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowmore.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1690,7 +1718,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/name.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/name.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1699,7 +1727,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/username.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/username.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1708,7 +1736,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/followbutton.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/followbutton.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/colors.tsx",
@@ -1719,10 +1747,10 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/whotofollowperson.tsx": [
-        "./src/home/rightsectioncontainer/name.tsx",
-        "./src/home/rightsectioncontainer/username.tsx",
-        "./src/home/rightsectioncontainer/followbutton.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx": [
+        "./src/containers/_1_home/rightsectioncontainer/name.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/username.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/followbutton.tsx",
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
@@ -1735,34 +1763,34 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx": [
-        "./src/home/rightsectioncontainer/trend.tsx",
-        "./src/home/rightsectioncontainer/trendsmore.tsx",
-        "./src/home/rightsectioncontainer/trendsforyou.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx": [
+        "./src/containers/_1_home/rightsectioncontainer/trend.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/trendsmore.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/trendsforyou.tsx",
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
         "./src/res/styles/spacing.tsx",
         "./src/res/styles/colors.tsx",
         "../../node_modules/@types/i18n-js/index.d.ts",
         "./src/res/icons/ichome.tsx",
-        "./src/home/rightsectioncontainer/whotofollowheader.tsx",
-        "./src/home/rightsectioncontainer/whotofollowmore.tsx",
-        "./src/home/rightsectioncontainer/whotofollowperson.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/whotofollowheader.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/whotofollowmore.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx": [
-        "./src/home/rightsectioncontainer/trendingcontainer.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": [
+        "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx",
         "../../node_modules/@types/react-native/index.d.ts",
         "./node_modules/@types/react/index.d.ts",
         "./src/res/styles/spacing.tsx",
         "./src/res/icons/ichome.tsx",
         "../../node_modules/@types/i18n-js/index.d.ts",
         "./src/res/styles/colors.tsx",
-        "./src/home/rightsectioncontainer/searchbar.tsx",
-        "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1788,11 +1816,11 @@
         "./src/res/styles/colors.tsx",
         "./src/res/styles/spacing.tsx",
         "../../node_modules/@types/i18n-js/index.d.ts",
-        "./src/home/tweetbox/_tweetbox.tsx",
+        "./src/containers/_1_home/tweetbox/_tweetbox.tsx",
         "./src/components/profileimage.tsx",
-        "./src/home/tweet/_tweet.tsx",
-        "./src/home/tweetcontainer/tweetcontainer.tsx",
-        "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "./src/containers/_1_home/tweet/_tweet.tsx",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
         "./src/router/index.tsx",
         "./src/routes.tsx",
         "../../node_modules/@types/node/fs.d.ts",
@@ -1844,7 +1872,63 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/trendingcontainer/trendingcontainer.tsx": [
+      "./src/containers/_1_home/homescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_4_messages/messagesscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_6_lists/listsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_7_profile/profilescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -2865,10 +2949,10 @@
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
-      "./src/home/tweetbox/tweetbutton.tsx": [
+      "./src/containers/_1_home/tweetbox/tweetbutton.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
-      "./src/home/tweetbox/_tweetbox.tsx": [
+      "./src/containers/_1_home/tweetbox/_tweetbox.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "../../node_modules/@babel/types/lib/index.d.ts": [
@@ -2877,7 +2961,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/home/tweet/tweetbutton.tsx": [
+      "./src/containers/_1_home/tweet/tweetbutton.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
@@ -2901,14 +2985,14 @@
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
-      "./src/home/tweet/_tweet.tsx": [
+      "./src/containers/_1_home/tweet/_tweet.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/res/icons/icpopulartweets.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
-      "./src/home/tweetcontainer/tweetcontainer.tsx": [
+      "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/res/icons/icsettings.tsx": [
@@ -2919,7 +3003,7 @@
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx": [
+      "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/index.tsx": [
@@ -2942,6 +3026,24 @@
       ],
       "./src/router/index.web.tsx": [
         "../../node_modules/@types/react-router-dom/index.d.ts"
+      ],
+      "./src/containers/_1_home/homescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_4_messages/messagesscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_6_lists/listsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
       ],
       "../../node_modules/@types/babel__generator/index.d.ts": [
         "../../node_modules/@babel/types/lib/index.d.ts",
@@ -3440,6 +3542,9 @@
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_7_profile/profilescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -3524,6 +3629,7 @@
       "./src/res/strings/tr.tsx",
       "./src/res/strings/en.tsx",
       "./src/utils/i18n.tsx",
+      "./src/menu/_menucontainer.tsx",
       "./src/components/profileimage.tsx",
       "./src/res/icons/icphoto.tsx",
       "./src/res/icons/icgif.tsx",
@@ -3532,40 +3638,46 @@
       "./src/res/icons/icothers.tsx",
       "./src/res/icons/ictweeteditpogressbar.tsx",
       "./src/res/icons/ictweetappend.tsx",
-      "./src/home/tweetbox/tweetbutton.tsx",
-      "./src/home/tweetbox/_tweetbox.tsx",
+      "./src/containers/_1_home/tweetbox/tweetbutton.tsx",
+      "./src/containers/_1_home/tweetbox/_tweetbox.tsx",
       "../../node_modules/@babel/types/lib/index.d.ts",
-      "./src/home/tweet/tweetbutton.tsx",
+      "./src/containers/_1_home/tweet/tweetbutton.tsx",
       "./src/res/icons/iccaret.tsx",
       "./src/res/icons/iccomment.tsx",
       "./src/res/icons/iclike.tsx",
       "./src/res/icons/icretweet.tsx",
       "./src/res/icons/icshare.tsx",
-      "./src/home/tweet/_tweet.tsx",
+      "./src/containers/_1_home/tweet/_tweet.tsx",
       "./src/res/icons/icpopulartweets.tsx",
-      "./src/home/tweetcontainer/tweetcontainer.tsx",
-      "./src/home/rightsectioncontainer/trend.tsx",
-      "./src/home/rightsectioncontainer/trendsmore.tsx",
+      "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/trend.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/trendsmore.tsx",
       "./src/res/icons/icsettings.tsx",
-      "./src/home/rightsectioncontainer/trendsforyou.tsx",
-      "./src/home/rightsectioncontainer/trendingcontainer.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/trendsforyou.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx",
       "./src/res/icons/icsearch.tsx",
-      "./src/home/rightsectioncontainer/searchbar.tsx",
-      "./src/home/rightsectioncontainer/whotofollowheader.tsx",
-      "./src/home/rightsectioncontainer/whotofollowmore.tsx",
-      "./src/home/rightsectioncontainer/name.tsx",
-      "./src/home/rightsectioncontainer/username.tsx",
-      "./src/home/rightsectioncontainer/followbutton.tsx",
-      "./src/home/rightsectioncontainer/whotofollowperson.tsx",
-      "./src/home/rightsectioncontainer/whotofollowcontainer.tsx",
-      "./src/home/rightsectioncontainer/rightsectioncontainer.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowheader.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowmore.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/name.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/username.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/followbutton.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx",
+      "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
       "./src/index.tsx",
       "./src/otherscreen.tsx",
       "./src/otherscreen2.tsx",
       "./src/routes.tsx",
       "../../node_modules/@types/react-router-dom/index.d.ts",
       "./src/router/index.web.tsx",
-      "./src/home/trendingcontainer/trendingcontainer.tsx",
+      "./src/containers/_1_home/homescreen.tsx",
+      "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx",
+      "./src/containers/_2_discover/discoverscreen.tsx",
+      "./src/containers/_3_notifications/notificationsscreen.tsx",
+      "./src/containers/_4_messages/messagesscreen.tsx",
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx",
+      "./src/containers/_6_lists/listsscreen.tsx",
       "./src/res/colors/material_colors.tsx",
       "./src/res/icons/props.tsx",
       "./src/utils/prettytime.tsx",
@@ -3634,7 +3746,7 @@
       "../../node_modules/@types/stack-utils/index.d.ts",
       "../../node_modules/@types/yargs-parser/index.d.ts",
       "../../node_modules/@types/yargs/index.d.ts",
-      "./src/menu/_menucontainer.tsx"
+      "./src/containers/_7_profile/profilescreen.tsx"
     ]
   },
   "version": "3.7.5"

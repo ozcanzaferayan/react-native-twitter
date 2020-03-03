@@ -29,11 +29,11 @@ import IcHome from "./res/icons/IcHome";
 import colors from "./res/styles/colors";
 import spacing from "./res/styles/spacing";
 import I18n from "i18n-js";
-import TweetBox from "./home/tweetBox/_TweetBox";
+import TweetBox from "./containers/_1_home/tweetBox/_TweetBox";
 import ProfileImage from "./components/ProfileImage";
-import Tweet from "./home/tweet/_Tweet";
-import TweetContainer from "./home/tweetContainer/TweetContainer";
-import RightSectionContainer from "./home/rightSectionContainer/RightSectionContainer";
+import Tweet from "./containers/_1_home/tweet/_Tweet";
+import TweetContainer from "./containers/_1_home/tweetContainer/TweetContainer";
+import RightSectionContainer from "./containers/_1_home/rightSectionContainer/RightSectionContainer";
 import { Router, Link, Route } from "./Router/index";
 import { Routes } from "./Routes";
 

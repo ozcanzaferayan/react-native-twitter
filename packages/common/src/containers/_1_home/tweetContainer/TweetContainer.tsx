@@ -1,13 +1,13 @@
 import React from "react";
 import { View, Text, StyleSheet, ViewStyle } from "react-native";
-import MenuContainer from "../../menu/_MenuContainer";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
+import MenuContainer from "../../../menu/_MenuContainer";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
+import IcHome from "../../../res/icons/IcHome";
 import TweetBox from "../tweetBox/_TweetBox";
 import Tweet from "../tweet/_Tweet";
-import IcPopularTweets from "../../res/icons/IcPopularTweets";
+import IcPopularTweets from "../../../res/icons/IcPopularTweets";
 
 
 type Props = {

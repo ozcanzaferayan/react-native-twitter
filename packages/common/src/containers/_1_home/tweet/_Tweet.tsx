@@ -1,17 +1,17 @@
 import { View, TextInput, Image, Text } from "react-native";
 import React from "react";
 import I18n from "i18n-js";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
-import IcHome from "../../res/icons/IcHome";
-import MenuButton from "../../menu/MenuButton";
-import ProfileImage from "../../components/ProfileImage";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
+import IcHome from "../../../res/icons/IcHome";
+import MenuButton from "../../../menu/MenuButton";
+import ProfileImage from "../../../components/ProfileImage";
 import TweetButton from "./TweetButton";
-import IcCaret from "../../res/icons/IcCaret";
-import IcComment from "../../res/icons/IcComment";
-import IcLike from "../../res/icons/IcLike";
-import IcRetweet from "../../res/icons/IcRetweet";
-import IcShare from "../../res/icons/IcShare";
+import IcCaret from "../../../res/icons/IcCaret";
+import IcComment from "../../../res/icons/IcComment";
+import IcLike from "../../../res/icons/IcLike";
+import IcRetweet from "../../../res/icons/IcRetweet";
+import IcShare from "../../../res/icons/IcShare";
 
 
 interface Props {

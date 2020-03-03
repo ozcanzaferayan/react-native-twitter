@@ -1,18 +1,18 @@
 import { View, TextInput, Image, Platform, NativeSyntheticEvent, TextInputChangeEventData, Text } from "react-native";
 import React, { useState } from "react";
 import I18n from "i18n-js";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
-import IcHome from "../../res/icons/IcHome";
-import MenuButton from "../../menu/MenuButton";
-import ProfileImage from "../../components/ProfileImage";
-import IcPhoto from "../../res/icons/IcPhoto";
-import IcGif from "../../res/icons/IcGif";
-import IcSurvey from "../../res/icons/IcSurvey";
-import IcEmoji from "../../res/icons/IcEmoji";
-import IcOthers from "../../res/icons/IcOthers";
-import IcTweetEditPogressBar from "../../res/icons/IcTweetEditPogressBar";
-import IcTweetAppend from "../../res/icons/IcTweetAppend";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
+import IcHome from "../../../res/icons/IcHome";
+import MenuButton from "../../../menu/MenuButton";
+import ProfileImage from "../../../components/ProfileImage";
+import IcPhoto from "../../../res/icons/IcPhoto";
+import IcGif from "../../../res/icons/IcGif";
+import IcSurvey from "../../../res/icons/IcSurvey";
+import IcEmoji from "../../../res/icons/IcEmoji";
+import IcOthers from "../../../res/icons/IcOthers";
+import IcTweetEditPogressBar from "../../../res/icons/IcTweetEditPogressBar";
+import IcTweetAppend from "../../../res/icons/IcTweetAppend";
 import TweetButton from "./TweetButton";
 
 

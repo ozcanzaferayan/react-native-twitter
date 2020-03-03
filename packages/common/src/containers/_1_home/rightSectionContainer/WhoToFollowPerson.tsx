@@ -3,11 +3,11 @@ import { Username } from "./Username";
 import { FollowButton } from "./FollowButton";
 import React from "react";
 import { TextStyle, View, Text, StyleSheet, ViewStyle } from "react-native";
-import spacing from "../../res/styles/spacing";
-import colors from "../../res/styles/colors";
+import spacing from "../../../res/styles/spacing";
+import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../res/icons/IcHome";
-import ProfileImage from "../../components/ProfileImage";
+import IcHome from "../../../res/icons/IcHome";
+import ProfileImage from "../../../components/ProfileImage";
 
 type Props = {
   // text: String;
