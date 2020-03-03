@@ -7,7 +7,7 @@ import {
 
 
 export const HomeScreen: React.FC = props => (
-  <Text>Discover</Text>
+  <Text>HomeScreen</Text>
 );
 
 const styles = StyleSheet.create({

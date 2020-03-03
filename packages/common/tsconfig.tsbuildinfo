@@ -494,7 +494,7 @@
         "signature": "4b595b1eb92df7e54fe6c41a31a26bb37b633045c200b1613889f3f35e9e0edf"
       },
       "./src/containers/_1_home/homescreen.tsx": {
-        "version": "32dcf763f17da175855a381cefae9514efbee223a2ca397206993af1a721562e",
+        "version": "369c0df25ac24054fd3b6ea023f304ba25212be2626ca8cfda0486404f46a6f0",
         "signature": "3e9f804d1a6c07faa84beea84949e4706d93d89472426a80845c83fe4f2632ed"
       },
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": {
@@ -510,12 +510,12 @@
         "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
       },
       "./src/containers/_4_messages/messagesscreen.tsx": {
-        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
-        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+        "version": "983a4b363ef37eac42add8ff06105c4a86b40426186cdc7f2d5dc1d40f4b54a8",
+        "signature": "dc5007e89a8ded92e028df4d9f546ae6e61904b92d7a6c8b5d9743135f6857e3"
       },
       "./src/containers/_5_bookmarks/bookmarksscreen.tsx": {
-        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
-        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+        "version": "bb94246f86fe538056145960c7a70fb1d66b104ec06fdb8d68d9f9c61f100e25",
+        "signature": "d6660cb1e1a6e84f65addfd3e4da1234282cac18a2fe3b836fba87b8fe9c9256"
       },
       "./src/containers/_6_lists/listsscreen.tsx": {
         "version": "f2065f45bcb3b3329204e3b5d0103659f8fdf9b7ba0ed57b7be6008e2a98379c",
@@ -3045,6 +3045,9 @@
       "./src/containers/_6_lists/listsscreen.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
+      "./src/containers/_7_profile/profilescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
       "../../node_modules/@types/babel__generator/index.d.ts": [
         "../../node_modules/@babel/types/lib/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
@@ -3542,9 +3545,6 @@
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_7_profile/profilescreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -3671,13 +3671,13 @@
       "./src/routes.tsx",
       "../../node_modules/@types/react-router-dom/index.d.ts",
       "./src/router/index.web.tsx",
-      "./src/containers/_1_home/homescreen.tsx",
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx",
       "./src/containers/_2_discover/discoverscreen.tsx",
       "./src/containers/_3_notifications/notificationsscreen.tsx",
       "./src/containers/_4_messages/messagesscreen.tsx",
       "./src/containers/_5_bookmarks/bookmarksscreen.tsx",
       "./src/containers/_6_lists/listsscreen.tsx",
+      "./src/containers/_7_profile/profilescreen.tsx",
       "./src/res/colors/material_colors.tsx",
       "./src/res/icons/props.tsx",
       "./src/utils/prettytime.tsx",
@@ -3746,7 +3746,7 @@
       "../../node_modules/@types/stack-utils/index.d.ts",
       "../../node_modules/@types/yargs-parser/index.d.ts",
       "../../node_modules/@types/yargs/index.d.ts",
-      "./src/containers/_7_profile/profilescreen.tsx"
+      "./src/containers/_1_home/homescreen.tsx"
     ]
   },
   "version": "3.7.5"
