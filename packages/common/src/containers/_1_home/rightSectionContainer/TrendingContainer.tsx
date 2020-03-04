@@ -9,14 +9,19 @@ import I18n from "i18n-js";
 import IcHome from "../../../res/icons/IcHome";
 
 type Props = {
-  // text: String;
+  isMainSection?: boolean;
 };
 
 interface Style {
   container: ViewStyle;
 }
 
-export function TrendingContainer({}) {
+interface StyleProps {
+  isMainSection: boolean;
+}
+
+export const TrendingContainer: React.FC<Props> = props => {
+  const styles = customStyles({isMainSection: props.isMainSection ? true : false});
   return (
     <View style={styles.container}>
       <TrendsForYou />
@@ -30,10 +35,12 @@ export function TrendingContainer({}) {
   );
 }
 
-const styles = StyleSheet.create<Style>({
+
+const customStyles = (props: StyleProps) =>
+StyleSheet.create<Style>({
   container: {
     marginBottom: 14,
-    backgroundColor: "rgb(21, 24, 28)",
+    backgroundColor: props.isMainSection ? 'transparent' : "rgb(21, 24, 28)",
     borderRadius: 14
   }
 });

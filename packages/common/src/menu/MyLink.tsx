@@ -1,6 +1,6 @@
 import { useRouteMatch, Link } from "../Router";
 import React from "react";
-import { ViewStyle } from "react-native";
+import { ViewStyle, Platform } from "react-native";
 type Props = {
   to: string;
   children: React.ReactElement;
@@ -20,7 +20,7 @@ export const MyLink: React.FC<Props> = props => {
       to={props.to}
       style={{
         color: "inherit",
-        textDecoration: "inherit"
+        textDecoration: "inherit",
       }}
     >
       {React.cloneElement(props.children, { match: match })}

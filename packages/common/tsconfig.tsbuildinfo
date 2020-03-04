@@ -214,8 +214,8 @@
         "signature": "f1137a82a6f4d070362104678f7d226457f5624270c0c15fc8d34803aaafbc99"
       },
       "./src/router/index.tsx": {
-        "version": "8deb62231ce667b038be90702a90e85d5921d3476b2ae9b3583b9eba9e990032",
-        "signature": "99d2d8faa6bef4d426e42fa305d9765b36fb44e676472252f022580d13bfadff"
+        "version": "b34a2a47c00cea55585475a0f69586e9840feae009748983e4dbc13f0ba4bde7",
+        "signature": "aa5ca782cbc3090b5e5b4b1640946d8ee4befd4b9875a6f780d2ef700c01e0a6"
       },
       "../../node_modules/@types/react-native/globals.d.ts": {
         "version": "48174dd3d7c04b2593269c9a51e0e8d8de9e74b51b6ce0f18de950e3d6182e56",
@@ -241,93 +241,29 @@
         "version": "69c21f99d2ba17fc169d9c4ca9e83c1103ecce0081d62f13aedac3bd19ac91c4",
         "signature": "69c21f99d2ba17fc169d9c4ca9e83c1103ecce0081d62f13aedac3bd19ac91c4"
       },
-      "../../node_modules/react-native-svg/src/index.d.ts": {
-        "version": "8358ec85ac267609fb690db5359369d8b2e4f459ea4dfd3a8d112c91344d85b4",
-        "signature": "8358ec85ac267609fb690db5359369d8b2e4f459ea4dfd3a8d112c91344d85b4"
-      },
-      "./src/res/icons/icbookmarks.tsx": {
-        "version": "389d68b7d478f80408ad65f720ad35a95a3965626304dc5538466e3cce93cec0",
-        "signature": "2bcfd6a0e0c71816967c62a348bd241564c9687b794b1fc0966f4da492a7a181"
-      },
-      "./src/res/icons/icdiscover.tsx": {
-        "version": "e1b8f6c463e601fe79e518524b4ff47083e5d1e0c8cb4a6f084476ad70a2f841",
-        "signature": "489b9ab67e709bdae5bea6ae1cde4583866ce43b262a149ae72a5e4552972ee8"
-      },
-      "./src/res/icons/iclists.tsx": {
-        "version": "7057ec5ad6878c9203915457fe05f14fa4dc8da9c77871b7f90310af2b864669",
-        "signature": "cb003eb624634cfc0c1f5f23cce4cdfb99b3acbbf6fd5d739f2feda3ed689475"
-      },
-      "./src/res/icons/icmessages.tsx": {
-        "version": "bd6cc146aab97dec8554760ad414b66e39570c9183e553f8c85b5a47afea7e4e",
-        "signature": "1c0bbe6425a14b3070419d7fdd6099529358adf7da3cda918f539e8b793c8d1e"
-      },
-      "./src/res/icons/icmore.tsx": {
-        "version": "0e3e5bd69a7531ee333354529dc650f10bf755fea04614c2c371e792defc2ee9",
-        "signature": "11cbd9cdbfe941175fe84a653863a0078fd82d5385bf9f4fb7a405914a5fa52c"
-      },
-      "./src/res/icons/icnotifications.tsx": {
-        "version": "d3138191bd5cf39a00bfc8ca7b87bc63d4fa4aca02ab01dde0e3e83df65b8ba2",
-        "signature": "89d5447a01a260c4d8a9c0bb60888da3ab564d2a52b66919ff800b25c117c2f5"
-      },
-      "./src/res/icons/ictwitter.tsx": {
-        "version": "3a47aecb631c1469ce851d32f94b0e8a9310df035cb2aff484798d4fc5574e05",
-        "signature": "a8c31f79d0b410275e2657377bb2e27a0c60edf67dbd562ce156c256f6d1dd01"
+      "./src/res/styles/spacing.tsx": {
+        "version": "4c4291b35984e0fa4741eec37763f837d07b5efbe29b65b80439b012a296c64c",
+        "signature": "65a7cb441c0e47fda18eeea1107bd618d054226f106f262cc44fe2c34c58824b"
       },
       "./src/res/styles/colors.tsx": {
         "version": "d5b75d7b8f047d89a3e16ba0d75d09bef48bf113158b4b248abc4d92698d2420",
         "signature": "af990c34c43955269bef3793024c6e58b6b0e3c4de42aeee5dd54e49caabbab0"
       },
-      "./src/res/styles/spacing.tsx": {
-        "version": "4c4291b35984e0fa4741eec37763f837d07b5efbe29b65b80439b012a296c64c",
-        "signature": "65a7cb441c0e47fda18eeea1107bd618d054226f106f262cc44fe2c34c58824b"
+      "../../node_modules/@types/i18n-js/index.d.ts": {
+        "version": "d77da61f41afa474293bf9258a393f46978ba3fe6b038cc79ec08ba226633e1f",
+        "signature": "d77da61f41afa474293bf9258a393f46978ba3fe6b038cc79ec08ba226633e1f"
       },
-      "./src/menu/menubutton.tsx": {
-        "version": "fdbc12b648880bbfca50ffa5c89e36cbf48aa6b82b6c7b799ac16067570e4460",
-        "signature": "1cf5c9d003c96447144d833f1eac4c7e3da3ebcae9aa0c357c6705f322fea856"
-      },
-      "./src/menu/menuicontext.tsx": {
-        "version": "28013f391be1c134c7c92221af81539f0c7927d2e7e4199b7e9842a07e780059",
-        "signature": "b6caea3fe0b932ecfce0f2c3961e7586be8643f3b48aea37c887916076f53d2a"
-      },
-      "./src/menu/menuprofile.tsx": {
-        "version": "652b1d2587de96e24c0011da7dc1cd67c03780f44287f6514c794bad4c04e1f6",
-        "signature": "da56dec95929082e7307bc4968a6e13ee1ee121b4da8ef8dc988f97cba03d59d"
-      },
-      "./src/menu/menulogo.tsx": {
-        "version": "b116293aecf06705c0e0a4b43e1822eaa28e72487e9bcc74401a2c9f50788beb",
-        "signature": "bfb2fe39caa5b9dd48b3452a54ce5485351b01efe90967fa82200da67222acce"
-      },
-      "./src/menu/menuitem.tsx": {
-        "version": "ddf377565da7df9bb8fcd2ce9ec0406d4d1f600f109f07f42819f23fc6ad27ab",
-        "signature": "810a568341f6f9567fb54f582c5a656704dbf1533adc61e2a2d16b18adc29b08"
+      "../../node_modules/react-native-svg/src/index.d.ts": {
+        "version": "8358ec85ac267609fb690db5359369d8b2e4f459ea4dfd3a8d112c91344d85b4",
+        "signature": "8358ec85ac267609fb690db5359369d8b2e4f459ea4dfd3a8d112c91344d85b4"
       },
       "./src/res/icons/ichome.tsx": {
         "version": "b67b3f8c4321dce1f4a690e2d5e41ef039bb0512f26c3980b7d6f7119499e487",
         "signature": "e6c0a365a78c65041e007d5b353a075d305601fd8872ef47e2ef77087e12bbe0"
       },
-      "../../node_modules/@types/i18n-js/index.d.ts": {
-        "version": "d77da61f41afa474293bf9258a393f46978ba3fe6b038cc79ec08ba226633e1f",
-        "signature": "d77da61f41afa474293bf9258a393f46978ba3fe6b038cc79ec08ba226633e1f"
-      },
-      "../../node_modules/react-native-localize/index.d.ts": {
-        "version": "dc745df07617daa007ad2c5a6a0d7178d6a5b37a91fbf255c2b038a323075865",
-        "signature": "dc745df07617daa007ad2c5a6a0d7178d6a5b37a91fbf255c2b038a323075865"
-      },
-      "./src/res/strings/tr.tsx": {
-        "version": "839de63903dfd3e027e27669b99a66a542846ceb4ec24528b7afcbe7ebe21f4a",
-        "signature": "a94f3f9dd84f2595c5aebb1912cf2bf6522776c29b0a01bdb337dbd75c555857"
-      },
-      "./src/res/strings/en.tsx": {
-        "version": "e044f0cef0604390ce905ac3f79f6a6a0a91f5416421dcc93e789e5a999ea33c",
-        "signature": "81039f055aeabd83084e87534db387e6f95ff42d01d7cca8304f18349e0bfbb3"
-      },
-      "./src/utils/i18n.tsx": {
-        "version": "b9a6e2e3096815e25413cda902d1221eb06cb981a8544a0b05cfefbc8bcbccaa",
-        "signature": "e106671354b5503ec1b90862cce81ae703aa3453a5b38e72d10b0a05df73b794"
-      },
-      "./src/menu/_menucontainer.tsx": {
-        "version": "380f02b2f505fca56a064a0fb120408d59ba6bb2dfb0db5ab1cbed25feae8712",
-        "signature": "e3112b7d6565e5f95a9a7063375d9e522d056777db14a611700da9962fd825ad"
+      "./src/menu/menubutton.tsx": {
+        "version": "fdbc12b648880bbfca50ffa5c89e36cbf48aa6b82b6c7b799ac16067570e4460",
+        "signature": "1cf5c9d003c96447144d833f1eac4c7e3da3ebcae9aa0c357c6705f322fea856"
       },
       "./src/components/profileimage.tsx": {
         "version": "bfbc14ce716716fcdec09d08c9f85241536cb1b50c41bd9f4ecf39125c78c516",
@@ -406,8 +342,8 @@
         "signature": "a25e2d27a234c7a934449e55ed0a7aa774bf3b41c4762fa42b48ae6dddfa2ab7"
       },
       "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx": {
-        "version": "d75ed904cafefa92c798f054cde61b45ec6ee145c98c1591560916a164b59b2d",
-        "signature": "b9a46946bf2e527fbff9f9166ff7bc18dd5815fb4bf10797175a2c02bc1cb18c"
+        "version": "d088df560b85991ada394fdcb68406abe33c778dbd35d33cdd6fae66a79f7687",
+        "signature": "ac1d7de2405e1db575dbed347156849890799fe86d7332ae2baa71ca5e5867e2"
       },
       "./src/containers/_1_home/rightsectioncontainer/trend.tsx": {
         "version": "f92489a630da5d722466041a6cf9d95cedf17d4a688358e5894446866489d6b1",
@@ -426,16 +362,16 @@
         "signature": "3b118bc89af11d1d1f6b2622a4e1039676c5bfd330e4ae5791361fda65043879"
       },
       "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx": {
-        "version": "b8984430f7f291939af8de05ccd6cc45be5f40afaa1804dec346ac8964fce252",
-        "signature": "5896abe2c8f24d224a0e531e7bec3be55779d7d9b56b34bc70e40e4ab974eab7"
+        "version": "2e8a4c869441e0369594b99773ec33612f9c20c83c924ff9c853b40594fc1a1b",
+        "signature": "dc83c119a85258ec046234912874f1e432e5cd3f5633ec2aff38e2c688cbf84f"
       },
       "./src/res/icons/icsearch.tsx": {
         "version": "c693d6aae2583cd4aa10ab2e72a07b1081cb0cf9b6ae68fc0d2074b2ca1e0f86",
         "signature": "b82ac7263924994fb1fc4a1c2134ce6afc17d692079ac6386f19a7960b62c93f"
       },
       "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx": {
-        "version": "4ec4c2f56ae91b1911a118cbfd4af3239fe94cd7a94664ed43669f517cd4c06f",
-        "signature": "92b16b2c2931d094b249c09fdf560ab16c7360ad6078b01dd003e421bf5b583b"
+        "version": "ff8d05c5a65efd19eb11495677561ae70918d230cff28aaccfc40f64ee31f32b",
+        "signature": "be4eba124496810d75477a0286a89f7b94cdbbf65d001a60cbd7b57386ad7bcd"
       },
       "./src/containers/_1_home/rightsectioncontainer/whotofollowheader.tsx": {
         "version": "aff37848128336c537543bba993482e2d2ee28f71f2d23a93695f1b21d283583",
@@ -466,16 +402,132 @@
         "signature": "4c82df10e3c0dd2a7160d30c88be434901610f2eb0bd35807309ef9d25a7c5bd"
       },
       "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": {
-        "version": "281e5e6268f631bf7c5484262fcbd21e8d0bcfc0faa18b368de9f2a8f2a86a46",
-        "signature": "016d99e9eea0fe07a7c31d2e52c743cff3bffa662789a4d8b027075999e768e3"
+        "version": "5ff7c621b2bdd28e036154cf6617da0b2a9a459cb6f54d7ffb0f7e7da2212a09",
+        "signature": "5f43fa83fc3a1d8cdba4fcce6bace97199665c40a99cea666468cc35ee31cc89"
+      },
+      "./src/containers/_2_discover/discoverscreen.tsx": {
+        "version": "8ce64b6f736975e92f9bf5740deb9a2ba252a6ff209ddeda4f91f6d4ed9e9484",
+        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
+      },
+      "./src/containers/_3_notifications/notificationsscreen.tsx": {
+        "version": "321c0db19ea1b26252ad3f93c01d047d395c4e2d87b52a9babee8553bae61f7f",
+        "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
+      },
+      "./src/menu/menuitem.tsx": {
+        "version": "e69207c428c6e15c418866cf5dd903fecb4af65b3da4353533eeeec72bffd21e",
+        "signature": "29b40f3f66f6caaa318f11a8539155f0646c96e3dbab9fddcf3ee81c2a1669f5"
+      },
+      "./src/menu/menulogo.tsx": {
+        "version": "b116293aecf06705c0e0a4b43e1822eaa28e72487e9bcc74401a2c9f50788beb",
+        "signature": "bfb2fe39caa5b9dd48b3452a54ce5485351b01efe90967fa82200da67222acce"
+      },
+      "./src/menu/menuicontext.tsx": {
+        "version": "f41cedca3e7123dc6219675a06d28131fd39bf137b5585c1cd227fec323ba00c",
+        "signature": "8498ee83ec62e9ebb50f7bbdac2aa7eaed284400f64d5598c5875395e70b0ea3"
+      },
+      "./src/res/icons/ictwitter.tsx": {
+        "version": "3a47aecb631c1469ce851d32f94b0e8a9310df035cb2aff484798d4fc5574e05",
+        "signature": "a8c31f79d0b410275e2657377bb2e27a0c60edf67dbd562ce156c256f6d1dd01"
+      },
+      "../../node_modules/react-native-localize/index.d.ts": {
+        "version": "dc745df07617daa007ad2c5a6a0d7178d6a5b37a91fbf255c2b038a323075865",
+        "signature": "dc745df07617daa007ad2c5a6a0d7178d6a5b37a91fbf255c2b038a323075865"
+      },
+      "./src/res/strings/tr.tsx": {
+        "version": "839de63903dfd3e027e27669b99a66a542846ceb4ec24528b7afcbe7ebe21f4a",
+        "signature": "a94f3f9dd84f2595c5aebb1912cf2bf6522776c29b0a01bdb337dbd75c555857"
+      },
+      "./src/res/strings/en.tsx": {
+        "version": "e044f0cef0604390ce905ac3f79f6a6a0a91f5416421dcc93e789e5a999ea33c",
+        "signature": "81039f055aeabd83084e87534db387e6f95ff42d01d7cca8304f18349e0bfbb3"
+      },
+      "./src/utils/i18n.tsx": {
+        "version": "b9a6e2e3096815e25413cda902d1221eb06cb981a8544a0b05cfefbc8bcbccaa",
+        "signature": "e106671354b5503ec1b90862cce81ae703aa3453a5b38e72d10b0a05df73b794"
+      },
+      "./src/res/icons/icdiscover.tsx": {
+        "version": "e1b8f6c463e601fe79e518524b4ff47083e5d1e0c8cb4a6f084476ad70a2f841",
+        "signature": "489b9ab67e709bdae5bea6ae1cde4583866ce43b262a149ae72a5e4552972ee8"
+      },
+      "./src/res/icons/icnotifications.tsx": {
+        "version": "d3138191bd5cf39a00bfc8ca7b87bc63d4fa4aca02ab01dde0e3e83df65b8ba2",
+        "signature": "89d5447a01a260c4d8a9c0bb60888da3ab564d2a52b66919ff800b25c117c2f5"
+      },
+      "./src/res/icons/icmessages.tsx": {
+        "version": "bd6cc146aab97dec8554760ad414b66e39570c9183e553f8c85b5a47afea7e4e",
+        "signature": "1c0bbe6425a14b3070419d7fdd6099529358adf7da3cda918f539e8b793c8d1e"
+      },
+      "./src/res/icons/icbookmarks.tsx": {
+        "version": "389d68b7d478f80408ad65f720ad35a95a3965626304dc5538466e3cce93cec0",
+        "signature": "2bcfd6a0e0c71816967c62a348bd241564c9687b794b1fc0966f4da492a7a181"
+      },
+      "./src/res/icons/iclists.tsx": {
+        "version": "7057ec5ad6878c9203915457fe05f14fa4dc8da9c77871b7f90310af2b864669",
+        "signature": "cb003eb624634cfc0c1f5f23cce4cdfb99b3acbbf6fd5d739f2feda3ed689475"
+      },
+      "./src/menu/menuprofile.tsx": {
+        "version": "f03409e68595e59b058b812967877eb783ba955dea93349e029d95773e035a0f",
+        "signature": "fba0139477f3ed5088b624880dfd54748fbd0bb9c2a8b93bd44f8cf8a926057a"
+      },
+      "./src/res/icons/icmore.tsx": {
+        "version": "0e3e5bd69a7531ee333354529dc650f10bf755fea04614c2c371e792defc2ee9",
+        "signature": "11cbd9cdbfe941175fe84a653863a0078fd82d5385bf9f4fb7a405914a5fa52c"
       },
       "./src/containers/_1_home/homescreen.tsx": {
-        "version": "1be243246e40fc8f7fa0d112464a3029111b9fb208ef41b4725c33ced0c95312",
+        "version": "bd8fc0ceae40d042496eae7f36f2f1907e9c1103f7e0a7c20c63ec46217eba2b",
         "signature": "3e9f804d1a6c07faa84beea84949e4706d93d89472426a80845c83fe4f2632ed"
       },
+      "./src/containers/_4_messages/messagesscreen.tsx": {
+        "version": "cd1e9ba79120ce1172d7393a07e855fcee3386723250ab479b42aaec23798afe",
+        "signature": "dc5007e89a8ded92e028df4d9f546ae6e61904b92d7a6c8b5d9743135f6857e3"
+      },
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": {
+        "version": "56d4fa72b6c7e539e5a2eadd5d5450ba032659f3d266e4c457d23d3a178e5d6f",
+        "signature": "d6660cb1e1a6e84f65addfd3e4da1234282cac18a2fe3b836fba87b8fe9c9256"
+      },
+      "./src/containers/_6_lists/listsscreen.tsx": {
+        "version": "f452fdf63cd11d82ec910f9e9db5358fb951e1022468ce980c532dee784568aa",
+        "signature": "0282535348fc443b2249d97f9a9c666c7f3a4220bd5afdc07550a857ea5020e9"
+      },
+      "./src/containers/_7_profile/profilescreen.tsx": {
+        "version": "baaad739081d94023c1e484792b94922eb733effcbde82f83269da1859c18dd1",
+        "signature": "1c95f99c0431b865440643a6b1acd8a53cd11d879032aac2c65621b0b6fc9b64"
+      },
+      "./src/menu/mylink.tsx": {
+        "version": "249026423c8187b7b5919903a28165fb54b9453d64085dfcf750ba6d5a4930e4",
+        "signature": "8a369786fa463190248579d48ccb12fa2f2d10ac3d0bbb01137f89a6d5654575"
+      },
+      "./src/res/icons/ichomeactive.tsx": {
+        "version": "ab0a44fd0acc29830be6f07932fd109d3d7d219947769bf0c650e825bae53b88",
+        "signature": "23ee4d7468fd8eeb530e4678edfba76fb6b807d9eb56ed1bb6baaffa15c10eb1"
+      },
+      "./src/res/icons/icdiscoveractive.tsx": {
+        "version": "e08086f66fe6f5c0f5d1bc90fe5a3d4f834c270a4518a2a6ce8229980164e033",
+        "signature": "85c82089e4c0a7846bf25eedaec5ba8c12129140ecbf427d7f3e9186d670b929"
+      },
+      "./src/res/icons/icnotificationsactive.tsx": {
+        "version": "5d4eecbe7ba3ca9607b5cea6167168874c5e8b24324801e12c728e8405a2f51d",
+        "signature": "92cc67dc706d841c177d36e41265a9e1f55d02c5b0a7477d9a0ae61f54ba4453"
+      },
+      "./src/res/icons/icmessagesactive.tsx": {
+        "version": "0f17665905ed42a1a791bc4d4b069af23663eca36f48cb6b443a2b19ad5ac798",
+        "signature": "fe54f844d332d427043bab55218828d642722420dd0aaf36cd6543a50c0c988c"
+      },
+      "./src/res/icons/icbookmarksactive.tsx": {
+        "version": "c3664fe44b575b025ed43c0fa43eb03a504d661f89d65101aa91c6085892f7b5",
+        "signature": "c7ca1da095836f701bc1cc87c63df2ea9595922dbf326539ed655aa0a0defefa"
+      },
+      "./src/res/icons/iclistsactive.tsx": {
+        "version": "deeeaf835cf6c3c78cf098b8250bb85cbe6dac554f099b1c28f1616aff6615b1",
+        "signature": "2b76715100b87e616dd72fdb20fc6c563aa650cbbb4086f1aa02158f93a49425"
+      },
+      "./src/routes.tsx": {
+        "version": "e4e82fe23d612ef7b0223e1dbe9e17767603f7c6c3a28f84e7e7a4548ca1b0c3",
+        "signature": "2a4013c70daf073fe29eded2d5bcae95ea79aa555c2ad82b0f39fade1da70ae4"
+      },
       "./src/index.tsx": {
-        "version": "3fc35b6381d01ec7588e89eebd48d6ee67195e6db4df73025ba030e4ec79bab4",
-        "signature": "55227ebb99acfc5e69b8fc916c868f7a1b0e69fb810c75ce5eeed310215f1b9f"
+        "version": "1012da6db0b215b1abd3d24a584a223e1eb1c1661ce221faf6444a972217c365",
+        "signature": "0d0ce577527761f0dd510ffa1e7c5ccfba4ac8b1476d8bb62107574010f331fb"
       },
       "./src/otherscreen.tsx": {
         "version": "193e934ed631c654aec26e4714d51eb4fee03172ef58c127790cbdbedfe1b19f",
@@ -485,45 +537,17 @@
         "version": "469995c39c134683ed2c4ad320a826c8bb7eb3ad0a1930a6d4672176af39e0e3",
         "signature": "3121ab91a65b958461aea36580253eb7e23608ec0f74d63ceb2fe017c40814b2"
       },
-      "./src/containers/_2_discover/discoverscreen.tsx": {
-        "version": "9601681f34db5b2c1c2b0d91a95e3ea3124e894a4710bc268b5dc89d6a3f6316",
-        "signature": "d3bd63ed9de2c73627764ba387c0b699273401c187b5ea509dc593a55b65c82c"
-      },
-      "./src/containers/_3_notifications/notificationsscreen.tsx": {
-        "version": "0686737c97dd6eea476071b80a3932bf17abe344baf3a852dc75502235528727",
-        "signature": "371d38cd215376da572038f00d1ce72fdf0f1a28d39ec22fa8b49873987b5e55"
-      },
-      "./src/routes.tsx": {
-        "version": "454b01bd3a9c2e355723a3bff2fdb67f40a565ee8524fca9e370ec9afc619546",
-        "signature": "2a4013c70daf073fe29eded2d5bcae95ea79aa555c2ad82b0f39fade1da70ae4"
-      },
       "../../node_modules/@types/react-router-dom/index.d.ts": {
         "version": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de",
         "signature": "16cfb661be918f74b772680e4f43ec3d6bad99e44a7d0c41ab117748580b35de"
       },
       "./src/router/index.web.tsx": {
-        "version": "f5351369b70b366f749143fb0e623c90c8a31c6f8028ff59edb1e8f5b228dc1b",
-        "signature": "4b595b1eb92df7e54fe6c41a31a26bb37b633045c200b1613889f3f35e9e0edf"
+        "version": "1960eb8748db1fdfcdb1ce3cf2ec902b1eaab9a8c10615f83f94afd15292ca1b",
+        "signature": "8bcfec0383f389733ffa94cfdce08ee8c02a0d204d93a854b428ba97101bd35c"
       },
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": {
         "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-      },
-      "./src/containers/_4_messages/messagesscreen.tsx": {
-        "version": "983a4b363ef37eac42add8ff06105c4a86b40426186cdc7f2d5dc1d40f4b54a8",
-        "signature": "dc5007e89a8ded92e028df4d9f546ae6e61904b92d7a6c8b5d9743135f6857e3"
-      },
-      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": {
-        "version": "bb94246f86fe538056145960c7a70fb1d66b104ec06fdb8d68d9f9c61f100e25",
-        "signature": "d6660cb1e1a6e84f65addfd3e4da1234282cac18a2fe3b836fba87b8fe9c9256"
-      },
-      "./src/containers/_6_lists/listsscreen.tsx": {
-        "version": "f2065f45bcb3b3329204e3b5d0103659f8fdf9b7ba0ed57b7be6008e2a98379c",
-        "signature": "0282535348fc443b2249d97f9a9c666c7f3a4220bd5afdc07550a857ea5020e9"
-      },
-      "./src/containers/_7_profile/profilescreen.tsx": {
-        "version": "6a85d02c056d48020280eb69d3eeca430aecb234a5f73fd2a8decc76de4be176",
-        "signature": "1c95f99c0431b865440643a6b1acd8a53cd11d879032aac2c65621b0b6fc9b64"
       },
       "./src/res/colors/material_colors.tsx": {
         "version": "2d323c32363e7d5e697b2d6242d21fee0397149da2f49783f19e353219282ec2",
@@ -1223,65 +1247,7 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "../../node_modules/react-native-svg/src/index.d.ts": [
-        "../../node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/icbookmarks.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/icdiscover.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/iclists.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/icmessages.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/icmore.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/icnotifications.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/icons/ictwitter.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
+      "./src/res/styles/spacing.tsx": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1293,57 +1259,15 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/res/styles/spacing.tsx": [
+      "../../node_modules/@types/i18n-js/index.d.ts": [
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/menu/menubutton.tsx": [
-        "./node_modules/@types/react/index.d.ts",
+      "../../node_modules/react-native-svg/src/index.d.ts": [
+        "../../node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
-        "./src/res/styles/colors.tsx",
-        "./src/res/styles/spacing.tsx",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/menu/menuicontext.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "./src/res/styles/spacing.tsx",
-        "./src/res/styles/colors.tsx",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/menu/menuprofile.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "./src/res/styles/spacing.tsx",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/menu/menulogo.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "./src/res/styles/spacing.tsx",
-        "./src/res/styles/colors.tsx",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/menu/menuitem.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts",
-        "./src/res/styles/spacing.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1357,57 +1281,11 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "../../node_modules/@types/i18n-js/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/react-native-localize/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/strings/tr.tsx": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/res/strings/en.tsx": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/utils/i18n.tsx": [
-        "../../node_modules/@types/i18n-js/index.d.ts",
-        "../../node_modules/react-native-localize/index.d.ts",
-        "./src/res/strings/tr.tsx",
-        "./src/res/strings/en.tsx",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/menu/_menucontainer.tsx": [
+      "./src/menu/menubutton.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
-        "./src/menu/menuitem.tsx",
-        "./src/menu/menulogo.tsx",
-        "./src/res/icons/ictwitter.tsx",
-        "./src/menu/menuicontext.tsx",
-        "./src/res/icons/ichome.tsx",
-        "./src/res/icons/icdiscover.tsx",
-        "./src/res/icons/icnotifications.tsx",
-        "./src/res/icons/icmessages.tsx",
-        "./src/res/icons/icbookmarks.tsx",
-        "./src/res/icons/iclists.tsx",
-        "./src/menu/menuprofile.tsx",
-        "./src/res/icons/icmore.tsx",
-        "./src/menu/menubutton.tsx",
-        "./src/utils/i18n.tsx",
+        "./src/res/styles/colors.tsx",
+        "./src/res/styles/spacing.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1600,11 +1478,9 @@
       "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
-        "./src/menu/_menucontainer.tsx",
         "./src/res/styles/spacing.tsx",
         "./src/res/styles/colors.tsx",
         "../../node_modules/@types/i18n-js/index.d.ts",
-        "./src/res/icons/ichome.tsx",
         "./src/containers/_1_home/tweetbox/_tweetbox.tsx",
         "./src/containers/_1_home/tweet/_tweet.tsx",
         "./src/res/icons/icpopulartweets.tsx",
@@ -1796,6 +1672,155 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx",
+        "./src/res/styles/spacing.tsx",
+        "./src/res/styles/colors.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/menu/menuitem.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "./src/res/styles/spacing.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/menu/menulogo.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "./src/res/styles/spacing.tsx",
+        "./src/res/styles/colors.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/menu/menuicontext.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "./src/res/styles/spacing.tsx",
+        "./src/res/styles/colors.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/ictwitter.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "../../node_modules/react-native-localize/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/strings/tr.tsx": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/strings/en.tsx": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/utils/i18n.tsx": [
+        "../../node_modules/@types/i18n-js/index.d.ts",
+        "../../node_modules/react-native-localize/index.d.ts",
+        "./src/res/strings/tr.tsx",
+        "./src/res/strings/en.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icdiscover.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icnotifications.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icmessages.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icbookmarks.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/iclists.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/menu/menuprofile.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/res/styles/spacing.tsx",
+        "./src/res/styles/colors.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icmore.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "./src/containers/_1_home/homescreen.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
@@ -1806,34 +1831,144 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "./src/containers/_4_messages/messagesscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_6_lists/listsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/containers/_7_profile/profilescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
+        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/menu/mylink.tsx": [
+        "./src/router/index.tsx",
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/ichomeactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icdiscoveractive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icnotificationsactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icmessagesactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/icbookmarksactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/res/icons/iclistsactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/routes.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "./src/router/index.tsx",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "./src/containers/_2_discover/discoverscreen.tsx",
+        "./src/containers/_3_notifications/notificationsscreen.tsx",
+        "./src/menu/menuitem.tsx",
+        "./src/menu/menulogo.tsx",
+        "./src/menu/menuicontext.tsx",
+        "./src/res/icons/ictwitter.tsx",
+        "./src/utils/i18n.tsx",
+        "./src/res/icons/ichome.tsx",
+        "./src/res/icons/icdiscover.tsx",
+        "./src/res/icons/icnotifications.tsx",
+        "./src/res/icons/icmessages.tsx",
+        "./src/res/icons/icbookmarks.tsx",
+        "./src/res/icons/iclists.tsx",
+        "./src/menu/menuprofile.tsx",
+        "./src/menu/menubutton.tsx",
+        "./src/res/icons/icmore.tsx",
+        "./src/containers/_1_home/homescreen.tsx",
+        "./src/containers/_4_messages/messagesscreen.tsx",
+        "./src/containers/_5_bookmarks/bookmarksscreen.tsx",
+        "./src/containers/_6_lists/listsscreen.tsx",
+        "./src/containers/_7_profile/profilescreen.tsx",
+        "./src/menu/mylink.tsx",
+        "./src/res/icons/ichomeactive.tsx",
+        "./src/res/icons/icdiscoveractive.tsx",
+        "./src/res/icons/icnotificationsactive.tsx",
+        "./src/res/icons/icmessagesactive.tsx",
+        "./src/res/icons/icbookmarksactive.tsx",
+        "./src/res/icons/iclistsactive.tsx",
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
-        "./src/res/icons/icbookmarks.tsx",
-        "./src/res/icons/icdiscover.tsx",
-        "./src/res/icons/iclists.tsx",
-        "./src/res/icons/icmessages.tsx",
-        "./src/res/icons/icmore.tsx",
-        "./src/res/icons/icnotifications.tsx",
-        "./src/res/icons/ictwitter.tsx",
-        "./src/menu/menubutton.tsx",
-        "./src/menu/menuicontext.tsx",
-        "./src/menu/menuprofile.tsx",
-        "./src/menu/menulogo.tsx",
-        "./src/menu/menuitem.tsx",
-        "./src/menu/_menucontainer.tsx",
-        "./src/res/icons/ichome.tsx",
-        "./src/res/styles/colors.tsx",
-        "./src/res/styles/spacing.tsx",
-        "../../node_modules/@types/i18n-js/index.d.ts",
-        "./src/containers/_1_home/tweetbox/_tweetbox.tsx",
-        "./src/components/profileimage.tsx",
-        "./src/containers/_1_home/tweet/_tweet.tsx",
-        "./src/containers/_1_home/tweetcontainer/tweetcontainer.tsx",
-        "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
-        "./src/router/index.tsx",
         "./src/routes.tsx",
-        "./src/containers/_1_home/homescreen.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1850,36 +1985,6 @@
       "./src/otherscreen2.tsx": [
         "../../node_modules/@types/react-native/index.d.ts",
         "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_2_discover/discoverscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_3_notifications/notificationsscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/routes.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "./src/router/index.tsx",
-        "./src/index.tsx",
-        "./src/otherscreen.tsx",
-        "./src/otherscreen2.tsx",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "./src/containers/_2_discover/discoverscreen.tsx",
-        "./src/containers/_3_notifications/notificationsscreen.tsx",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -1902,38 +2007,6 @@
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
       "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_4_messages/messagesscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_6_lists/listsscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/containers/_7_profile/profilescreen.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/@types/react-native/index.d.ts",
         "../../node_modules/@types/node/fs.d.ts",
         "../../node_modules/@types/node/ts3.5/fs.d.ts",
         "../../node_modules/@types/node/util.d.ts",
@@ -2847,6 +2920,12 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
+      "../../node_modules/@types/i18n-js/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
       "../../node_modules/react-native-svg/src/index.d.ts": [
         "../../node_modules/@types/react/index.d.ts",
         "../../node_modules/@types/react-native/index.d.ts",
@@ -2855,71 +2934,11 @@
         "../../node_modules/@types/node/util.d.ts",
         "../../node_modules/@types/node/ts3.5/util.d.ts"
       ],
-      "./src/res/icons/icbookmarks.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/icdiscover.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/iclists.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/icmessages.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/icmore.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/icnotifications.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/res/icons/ictwitter.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/menu/menubutton.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/menu/menuicontext.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/menu/menuprofile.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/menu/menulogo.tsx": [
-        "./node_modules/@types/react/index.d.ts",
-        "../../node_modules/react-native-svg/src/index.d.ts"
-      ],
-      "./src/menu/menuitem.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
       "./src/res/icons/ichome.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
-      "../../node_modules/@types/i18n-js/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "../../node_modules/react-native-localize/index.d.ts": [
-        "../../node_modules/@types/node/fs.d.ts",
-        "../../node_modules/@types/node/ts3.5/fs.d.ts",
-        "../../node_modules/@types/node/util.d.ts",
-        "../../node_modules/@types/node/ts3.5/util.d.ts"
-      ],
-      "./src/utils/i18n.tsx": [
-        "../../node_modules/@types/i18n-js/index.d.ts"
-      ],
-      "./src/menu/_menucontainer.tsx": [
+      "./src/menu/menubutton.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/components/profileimage.tsx": [
@@ -3004,15 +3023,118 @@
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
+      "./src/containers/_1_home/rightsectioncontainer/trendingcontainer.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
       "./src/res/icons/icsearch.tsx": [
         "./node_modules/@types/react/index.d.ts",
         "../../node_modules/react-native-svg/src/index.d.ts"
       ],
+      "./src/containers/_1_home/rightsectioncontainer/searchbar.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
       "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
+      "./src/containers/_2_discover/discoverscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_3_notifications/notificationsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/menu/menuitem.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/menu/menulogo.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/menu/menuicontext.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/ictwitter.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "../../node_modules/react-native-localize/index.d.ts": [
+        "../../node_modules/@types/node/fs.d.ts",
+        "../../node_modules/@types/node/ts3.5/fs.d.ts",
+        "../../node_modules/@types/node/util.d.ts",
+        "../../node_modules/@types/node/ts3.5/util.d.ts"
+      ],
+      "./src/utils/i18n.tsx": [
+        "../../node_modules/@types/i18n-js/index.d.ts"
+      ],
+      "./src/res/icons/icdiscover.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icnotifications.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icmessages.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icbookmarks.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/iclists.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/menu/menuprofile.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/res/icons/icmore.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
       "./src/containers/_1_home/homescreen.tsx": [
         "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_4_messages/messagesscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_6_lists/listsscreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/containers/_7_profile/profilescreen.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/menu/mylink.tsx": [
+        "./node_modules/@types/react/index.d.ts"
+      ],
+      "./src/res/icons/ichomeactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icdiscoveractive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icnotificationsactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icmessagesactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/icbookmarksactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
+      ],
+      "./src/res/icons/iclistsactive.tsx": [
+        "./node_modules/@types/react/index.d.ts",
+        "../../node_modules/react-native-svg/src/index.d.ts"
       ],
       "./src/index.tsx": [
         "./node_modules/@types/react/index.d.ts"
@@ -3021,12 +3143,6 @@
         "./node_modules/@types/react/index.d.ts"
       ],
       "./src/otherscreen2.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_2_discover/discoverscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_3_notifications/notificationsscreen.tsx": [
         "./node_modules/@types/react/index.d.ts"
       ],
       "../../node_modules/@types/react-router-dom/index.d.ts": [
@@ -3040,18 +3156,6 @@
       ],
       "./src/router/index.web.tsx": [
         "../../node_modules/@types/react-router-dom/index.d.ts"
-      ],
-      "./src/containers/_4_messages/messagesscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_5_bookmarks/bookmarksscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_6_lists/listsscreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
-      ],
-      "./src/containers/_7_profile/profilescreen.tsx": [
-        "./node_modules/@types/react/index.d.ts"
       ],
       "../../node_modules/@types/babel__generator/index.d.ts": [
         "../../node_modules/@babel/types/lib/index.d.ts",
@@ -3613,28 +3717,12 @@
       "../../node_modules/@types/react-native/devtools.d.ts",
       "../../node_modules/@types/react-native/launchscreen.d.ts",
       "../../node_modules/@types/react-native/index.d.ts",
-      "../../node_modules/react-native-svg/src/index.d.ts",
-      "./src/res/icons/icbookmarks.tsx",
-      "./src/res/icons/icdiscover.tsx",
-      "./src/res/icons/iclists.tsx",
-      "./src/res/icons/icmessages.tsx",
-      "./src/res/icons/icmore.tsx",
-      "./src/res/icons/icnotifications.tsx",
-      "./src/res/icons/ictwitter.tsx",
-      "./src/res/styles/colors.tsx",
       "./src/res/styles/spacing.tsx",
-      "./src/menu/menubutton.tsx",
-      "./src/menu/menuicontext.tsx",
-      "./src/menu/menuprofile.tsx",
-      "./src/menu/menulogo.tsx",
-      "./src/menu/menuitem.tsx",
-      "./src/res/icons/ichome.tsx",
+      "./src/res/styles/colors.tsx",
       "../../node_modules/@types/i18n-js/index.d.ts",
-      "../../node_modules/react-native-localize/index.d.ts",
-      "./src/res/strings/tr.tsx",
-      "./src/res/strings/en.tsx",
-      "./src/utils/i18n.tsx",
-      "./src/menu/_menucontainer.tsx",
+      "../../node_modules/react-native-svg/src/index.d.ts",
+      "./src/res/icons/ichome.tsx",
+      "./src/menu/menubutton.tsx",
       "./src/components/profileimage.tsx",
       "./src/res/icons/icphoto.tsx",
       "./src/res/icons/icgif.tsx",
@@ -3670,19 +3758,41 @@
       "./src/containers/_1_home/rightsectioncontainer/whotofollowperson.tsx",
       "./src/containers/_1_home/rightsectioncontainer/whotofollowcontainer.tsx",
       "./src/containers/_1_home/rightsectioncontainer/rightsectioncontainer.tsx",
-      "./src/containers/_1_home/homescreen.tsx",
-      "./src/otherscreen.tsx",
-      "./src/otherscreen2.tsx",
       "./src/containers/_2_discover/discoverscreen.tsx",
       "./src/containers/_3_notifications/notificationsscreen.tsx",
-      "./src/routes.tsx",
-      "../../node_modules/@types/react-router-dom/index.d.ts",
-      "./src/router/index.web.tsx",
-      "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx",
+      "./src/menu/menuitem.tsx",
+      "./src/menu/menulogo.tsx",
+      "./src/menu/menuicontext.tsx",
+      "./src/res/icons/ictwitter.tsx",
+      "../../node_modules/react-native-localize/index.d.ts",
+      "./src/res/strings/tr.tsx",
+      "./src/res/strings/en.tsx",
+      "./src/utils/i18n.tsx",
+      "./src/res/icons/icdiscover.tsx",
+      "./src/res/icons/icnotifications.tsx",
+      "./src/res/icons/icmessages.tsx",
+      "./src/res/icons/icbookmarks.tsx",
+      "./src/res/icons/iclists.tsx",
+      "./src/menu/menuprofile.tsx",
+      "./src/res/icons/icmore.tsx",
+      "./src/containers/_1_home/homescreen.tsx",
       "./src/containers/_4_messages/messagesscreen.tsx",
       "./src/containers/_5_bookmarks/bookmarksscreen.tsx",
       "./src/containers/_6_lists/listsscreen.tsx",
       "./src/containers/_7_profile/profilescreen.tsx",
+      "./src/menu/mylink.tsx",
+      "./src/res/icons/ichomeactive.tsx",
+      "./src/res/icons/icdiscoveractive.tsx",
+      "./src/res/icons/icnotificationsactive.tsx",
+      "./src/res/icons/icmessagesactive.tsx",
+      "./src/res/icons/icbookmarksactive.tsx",
+      "./src/res/icons/iclistsactive.tsx",
+      "./src/routes.tsx",
+      "./src/otherscreen.tsx",
+      "./src/otherscreen2.tsx",
+      "../../node_modules/@types/react-router-dom/index.d.ts",
+      "./src/router/index.web.tsx",
+      "./src/containers/_1_home/trendingcontainer/trendingcontainer.tsx",
       "./src/res/colors/material_colors.tsx",
       "./src/res/icons/props.tsx",
       "./src/utils/prettytime.tsx",

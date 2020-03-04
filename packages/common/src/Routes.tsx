@@ -23,6 +23,12 @@ import BookmarksScreen from "./containers/_5_bookmarks/BookmarksScreen";
 import ListsScreen from "./containers/_6_lists/ListsScreen";
 import ProfileScreen from "./containers/_7_profile/ProfileScreen";
 import {MyLink} from './menu/MyLink';
+import IcHomeActive from "./res/icons/IcHomeActive";
+import IcDiscoverActive from "./res/icons/IcDiscoverActive";
+import IcNotificationsActive from "./res/icons/IcNotificationsActive";
+import IcMessagesActive from "./res/icons/IcMessagesActive";
+import IcBookmarksActive from "./res/icons/IcBookmarksActive";
+import IcListsActive from "./res/icons/IcListsActive";
 
 interface Style {
     container: ViewStyle;
@@ -32,23 +38,18 @@ export const Routes = () => {
     const uri = 'https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg';
     return (
         <Router>
-
-            <View style={styles.container}
-                {...Platform.select({
-                web: {
-                    accessibilityRole: 'banner'
-                }
-                })}
-                >
+          {/*
+          //@ts-ignore */}
+            <View style={styles.container}>
                 <MyLink to="/home"><MenuItem><MenuLogo Icon={IcTwitter} /></MenuItem></MyLink>
-                <MyLink to="/home"><MenuItem><MenuIconText text={I18n.t('menu.home')} Icon={IcHome}/></MenuItem></MyLink>
-                <MyLink to="/discover"><MenuItem><MenuIconText text={I18n.t('menu.discover')} Icon={IcDiscover}/></MenuItem></MyLink>
-                <MyLink to="/notifications"><MenuItem><MenuIconText text={I18n.t('menu.notifications')} Icon={IcNotifications} /></MenuItem></MyLink>
-                <MyLink to="/messages"><MenuItem><MenuIconText text={I18n.t('menu.messages')} Icon={IcMessages} /></MenuItem></MyLink>
-                <MyLink to="/bookmarks"><MenuItem><MenuIconText text={I18n.t('menu.bookmarks')} Icon={IcBookmarks} /></MenuItem></MyLink>
-                <MyLink to="/lists"><MenuItem><MenuIconText text={I18n.t('menu.lists')} Icon={IcLists} /></MenuItem></MyLink>
+                <MyLink to="/home"><MenuItem><MenuIconText text={I18n.t('menu.home')} Icon={IcHome} MatchIcon={IcHomeActive}/></MenuItem></MyLink>
+                <MyLink to="/discover"><MenuItem><MenuIconText text={I18n.t('menu.discover')} Icon={IcDiscover} MatchIcon={IcDiscoverActive}/></MenuItem></MyLink>
+                <MyLink to="/notifications"><MenuItem><MenuIconText text={I18n.t('menu.notifications')} Icon={IcNotifications} MatchIcon={IcNotificationsActive}/></MenuItem></MyLink>
+                <MyLink to="/messages"><MenuItem><MenuIconText text={I18n.t('menu.messages')} Icon={IcMessages} MatchIcon={IcMessagesActive}/></MenuItem></MyLink>
+                <MyLink to="/bookmarks"><MenuItem><MenuIconText text={I18n.t('menu.bookmarks')} Icon={IcBookmarks} MatchIcon={IcBookmarksActive}/></MenuItem></MyLink>
+                <MyLink to="/lists"><MenuItem><MenuIconText text={I18n.t('menu.lists')} Icon={IcLists} MatchIcon={IcListsActive}/></MenuItem></MyLink>
                 <MyLink to="/profile"><MenuItem><MenuProfile  text={I18n.t('menu.profile')} uri={uri} /></MenuItem></MyLink>
-                <MyLink to="/more"><MenuItem><MenuIconText text={I18n.t('menu.more')} Icon={IcMore}/></MenuItem></MyLink>
+                <MenuItem><MenuIconText text={I18n.t('menu.more')} Icon={IcMore} MatchIcon={IcHomeActive}/></MenuItem>
                 <MyLink to="/tweet"><MenuItem><MenuButton text={I18n.t('menu.tweet')}/></MenuItem></MyLink>
             </View>
             <Route exact path="/" component={HomeScreen} />

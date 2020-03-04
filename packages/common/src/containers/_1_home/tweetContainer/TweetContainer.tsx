@@ -1,24 +1,27 @@
 import React from "react";
-import { View, Text, StyleSheet, ViewStyle } from "react-native";
-import MenuContainer from "../../../menu/_MenuContainer";
+import { View, Text, StyleSheet, ViewStyle, ShadowPropTypesIOS } from "react-native";
 import spacing from "../../../res/styles/spacing";
 import colors from "../../../res/styles/colors";
 import I18n from "i18n-js";
-import IcHome from "../../../res/icons/IcHome";
 import TweetBox from "../tweetBox/_TweetBox";
 import Tweet from "../tweet/_Tweet";
 import IcPopularTweets from "../../../res/icons/IcPopularTweets";
 
 
 type Props = {
-    // text: String;
+  maxWidth?: number;
   }
 
   interface Style {
     containerFeed: ViewStyle;
   }
 
-export const TweetContainer: React.FC<Props> = props => {
+  interface StyleProps {
+    maxWidth: number;
+  }
+
+export const TweetContainer: React.FC<Props> = (props) => {
+  const styles = customStyles({maxWidth: props.maxWidth ? props.maxWidth : 600})
     return (
         <View style={styles.containerFeed}>
           <View style={{ height: 49, paddingRight: 14, paddingLeft: 14, alignItems:'center', flexDirection: 'row', justifyContent: 'space-between', borderBottomWidth: spacing.hairline, borderColor: colors.hairline, }}>
@@ -40,13 +43,13 @@ export const TweetContainer: React.FC<Props> = props => {
   };
   export default TweetContainer;
 
-  const styles =
+  const customStyles = (props: StyleProps) =>
   StyleSheet.create<Style>({
     containerFeed: {
       borderRightWidth: 1,
       borderLeftWidth: 1,
       borderColor: 'rgb(47, 51, 54)',
-      maxWidth: 600,
-      width: '100%'
+      width: '100%',
+      maxWidth: props.maxWidth
     },
   });

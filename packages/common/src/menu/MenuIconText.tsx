@@ -12,6 +12,7 @@ interface Style {
 type Props = {
   text: string;
   Icon: React.FC<SvgProps>;
+  MatchIcon: React.FC<SvgProps>;
   color?: string;
   match?: boolean;
 }
@@ -21,7 +22,7 @@ interface StyleProps {
 }
 
 const MenuIconText: React.FC<Props> = props => {
-  const Icon = props.Icon;
+  const Icon = props.match ? props.MatchIcon: props.Icon;
   const color = props.match ? colors.primary :
   props.color == null ? colors.text : props.color;
 

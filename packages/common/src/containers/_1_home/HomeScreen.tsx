@@ -6,7 +6,7 @@ import RightSectionContainer from "./rightSectionContainer/RightSectionContainer
 export const HomeScreen: React.FC = props => (
   <>
     <TweetContainer />
-    <RightSectionContainer />
+    <RightSectionContainer showTrending/>
   </>
 );
 

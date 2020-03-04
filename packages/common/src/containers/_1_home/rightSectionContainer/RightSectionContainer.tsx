@@ -16,33 +16,41 @@ import { SearchBar } from "./SearchBar";
 import { WhoToFollowContainer } from './WhoToFollowContainer';
 
 type Props = {
-  // text: String;
-};
+  showTrending?: boolean;
+}
 
 interface Style {
   container: ViewStyle;
   text: TextStyle;
 }
 
+interface StyleProps {
+  // isMainSection: boolean;
+}
+
 
 
 export const RightSectionContainer: React.FC<Props> = props => {
-  const uri =
-    "https://tr.gravatar.com/userimage/35267385/d63195914ffdf306f9e955ec8064832f.jpeg";
+  const styles = customStyles({});
   return (
     <View style={styles.container}>
-      <SearchBar/>
-      <TrendingContainer />
+      <SearchBar />
+      {
+        props.showTrending &&
+        <TrendingContainer/>
+      }
       <WhoToFollowContainer />
     </View>
   );
 };
 
-const styles = StyleSheet.create<Style>({
+const customStyles = (props: StyleProps) =>
+StyleSheet.create<Style>({
   container: {
     marginLeft: 30,
     width: 350,
-    padding: 5
+    padding: 5,
+    paddingTop: 9,
   },
 
   text: {
